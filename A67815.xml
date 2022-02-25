@@ -1,0 +1,597 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's shame, or, The unmasking of a politick atheist being a full and faithful relation of the life and death of that grand impostor, Hugh Peters : wherein is set forth his whole comportment, policies, and principles, exercised from the ingress, in the progress, and to the egress of his unhappy life / by William Yonge ...</title>
+            <author>Yonge, William, d. 1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 61 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67815</idno>
+            <idno type="STC">Wing Y44</idno>
+            <idno type="STC">ESTC R15490</idno>
+            <idno type="EEBO-CITATION">13030958</idno>
+            <idno type="OCLC">ocm 13030958</idno>
+            <idno type="VID">96733</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67815)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96733)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 403:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's shame, or, The unmasking of a politick atheist being a full and faithful relation of the life and death of that grand impostor, Hugh Peters : wherein is set forth his whole comportment, policies, and principles, exercised from the ingress, in the progress, and to the egress of his unhappy life / by William Yonge ...</title>
+                  <author>Yonge, William, d. 1663.</author>
+               </titleStmt>
+               <extent>[32], 88 p. : port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Da. Maxwel for Theodore Sadler ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+                  <note>Imperfect: portrait of Peters lacking in filmed copy.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peters, Hugh, 1598-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96733:1" rendition="simple:additions"/>
+            <pb facs="tcp:96733:1" rendition="simple:additions"/>
+            <p>
+               <hi>ENGLANDS SHAME:</hi> OR THE UNMASKING OF A Politick Atheiſt: Being a Full and Faithful Re<g ref="char:EOLunhyphen"/>lation of the LIFE and DEATH of the Grand Impoſtor HUGH PETERS.</p>
+            <p>Wherein is ſet forth his whole Com<g ref="char:EOLhyphen"/>portment, Policies, and Principles exerciſed from the ingreſs, in the Progreſs, and to the Egreſs of his Unhappy Life.</p>
+            <p>By WILLIAM YONGE, Dr. Med.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Da. Maxwel,</hi> for <hi>Theodore Sadler,</hi> next Door to the Golden Dolphin, over againſt <hi>Exeter</hi> Houſe in the Strand, 1663.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:96733:2" rendition="simple:additions"/>
+            <pb facs="tcp:96733:2"/>
+            <head>TO Her moſt Excellent Majeſty HENRIETTA MARIA, The Mother Queen of <hi>England, Scotland, France</hi> and <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Majeſty,</salute>
+            </opener>
+            <p>TO revive the eternized and bleſſed Memo<g ref="char:EOLhyphen"/>ry of your Royal Huſ<g ref="char:EOLhyphen"/>band andour now glori<g ref="char:EOLunhyphen"/>fied King, who lies em<g ref="char:EOLunhyphen"/>balmed with the me<g ref="char:EOLhyphen"/>rits and blood of his undoubted Saviour
+<pb facs="tcp:96733:3"/>and Redeemer, by ſuch an incompt and unwor<g ref="char:EOLhyphen"/>thy pen as mine is, were cauſe ſufficient to pull down the high diſpleaſure of your Royal Majeſty upon my ſelf, and ſuch pre<g ref="char:EOLhyphen"/>ſumptuous ones: But I do with all humility, ſupplicate your Ma<g ref="char:EOLhyphen"/>jeſties goodneſs and vertues, graciouſly to pardon this ſinful
+<pb facs="tcp:96733:3"/>boldneſs of him who deſires onely to imbel<g ref="char:EOLhyphen"/>liſh and ſet forth the unſpotted innocence and admired patience of ſo divine a Martyr as he was; and with faithfulneſs and cou<g ref="char:EOLhyphen"/>rage (maugre all dangers) to embla<g ref="char:EOLhyphen"/>zen out the ſhame and malice of his undeſer<g ref="char:EOLhyphen"/>ved Enemies: So will my continual and in<g ref="char:EOLhyphen"/>expreſſible
+<pb facs="tcp:96733:4"/>ſufferings for his ſake and inte<g ref="char:EOLhyphen"/>reſt be ſweetned, my loſſes be repaired, and ny ſervices ſufficiently rewarded: they being but ſo many monu<g ref="char:EOLhyphen"/>ments of duties per<g ref="char:EOLhyphen"/>formed, and eviden<g ref="char:EOLhyphen"/>ces of my inceſſant de<g ref="char:EOLhyphen"/>ſires and ſtudies by al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> means to explicate my ſelf</p>
+            <closer>
+               <signed>Your Majeſties moſt humble and obedient ſervant, W. Yonge.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:96733:4"/>
+            <head>To the impartial READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>SInce the <hi>Imprimatur</hi> to this Book and the greateſt part thereof was compoſed and printed, I under<g ref="char:EOLhyphen"/>ſtood of a Pamplet for<g ref="char:EOLhyphen"/>merly publiſhed in com<g ref="char:EOLhyphen"/>mendation of this tri<g ref="char:EOLhyphen"/>umphant Enemy over the Church and State, <hi>(tam moribus quam doctri<g ref="char:EOLhyphen"/>nâ)</hi> magnifying him for his vertues Moral
+<pb facs="tcp:96733:5"/>and Theological. In our ſmall acquaintance, I did obſerve him ſo well in theſe and all o<g ref="char:EOLhyphen"/>ther his actions, that I knew him <hi>intus &amp; in cu<g ref="char:EOLhyphen"/>te;</hi> therefore do atteſt, that I ever found him barren therein; onely a form of them he ob<g ref="char:EOLhyphen"/>ſerved, and that very co<g ref="char:EOLhyphen"/>vertly, which I eſpied thus; he could not pa<g ref="char:EOLhyphen"/>tiently behold the faces of poor Beggars, but would anſwer their pi<g ref="char:EOLhyphen"/>teous and piercing cryes for almes or relief, with
+<pb facs="tcp:96733:5"/>unbeſeeming threats of ſtocking and whipping them: <hi>O admiranda cha<g ref="char:EOLhyphen"/>ritas!</hi> He was invective againſt Drunkards and drunkenneſs, forgetting the old Proverb, <hi>Loripe<g ref="char:EOLhyphen"/>dem rectus derideat, aethiopem albus:</hi> to pull out his own moat, before he intermeddle with the beam of his brothers eye: for though he diſ<g ref="char:EOLhyphen"/>ſembled temperance, he would drink plentiful<g ref="char:EOLhyphen"/>ly of Sack or Strong beer, provided it might be done in private and
+<pb facs="tcp:96733:6"/>
+               <hi>gratis;</hi> for once I found him tripping in this ver<g ref="char:EOLhyphen"/>tue thus.</p>
+            <p>After he with another of his acquaintance had drank off ſeveral Tan<g ref="char:EOLhyphen"/>kards of <hi>March</hi> Beer, and that at ſingle hand in his own Chamber, a Gen<g ref="char:EOLhyphen"/>tleman coming in to vi<g ref="char:EOLhyphen"/>ſit him, he fell out into an unexpected paſsion, and would have beaten the Gentleman, (though a Juſtice of the Peace of his own ſtamp and coy<g ref="char:EOLhyphen"/>ning) had not I interpo<g ref="char:EOLhyphen"/>ſed my ſelf, and interce<g ref="char:EOLhyphen"/>ded
+<pb facs="tcp:96733:6"/>between them: Then as one Maudlin<g ref="char:EOLhyphen"/>drunk weeps, cryes, and prays, then calling for the other Tankard, be<g ref="char:EOLhyphen"/>comes reconciled, (and then to bed mother) cry<g ref="char:EOLhyphen"/>ing out the next day, that he did ſwim in his Bed all that night. I have often prevailed with him to write Letters of favour for diſtreſſed peo<g ref="char:EOLhyphen"/>ple, to his ſelected Friends, Sir <hi>Henry Vane, Cromwel, Ireton, Lenthal, Salaway, Harriſon,</hi> &amp;c. but all proved ineffectu<g ref="char:EOLhyphen"/>al,
+<pb facs="tcp:96733:7"/>for that their ſecret Compact was onely to receive Letters in a friendly manner, but not to proceed further by them; by which ſubtil<g ref="char:EOLhyphen"/>ty they be came lodged in the affections and ex<g ref="char:EOLhyphen"/>pectations of moſt peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>For his Qualifications in other commendable parts, both Divine and Natural, the enſuing Treatiſe will ſufficient<g ref="char:EOLhyphen"/>ly inform thee; the ſum of which, is only his own Relation, and my
+<pb facs="tcp:96733:7"/>Obſervation of his in<g ref="char:EOLhyphen"/>tricate proceedings, not eaſily diſcernable, eſpe<g ref="char:EOLhyphen"/>cially by thoſe who de<g ref="char:EOLhyphen"/>pended upon his Flatte<g ref="char:EOLhyphen"/>ries, or ſuch as were tranſported with zeal, that might rather be ac<g ref="char:EOLhyphen"/>counted madneſs than ſound Religion.</p>
+            <p>I have herein been carefull to avoid reports taken upon truſt for that <hi>fama mendax;</hi> and I had read many things of him, of which he was ignorant. I confeſs, I could have furniſhed
+<pb facs="tcp:96733:8"/>thee with many Comi<g ref="char:EOLhyphen"/>cal Expreſſions of his, uttered in publike in the Pulpit, and privately in Civil Societies; but I was importuned only to a ſober and faithful Diſ<g ref="char:EOLhyphen"/>courſe of him, thereby as well to ſatisfie many who out of ignorance and dotage on him, and his deluſives, did, and ſtill do admire and dio<g ref="char:EOLhyphen"/>lize his Name and Fame; As alſo, to vindicate my ſelf in performing my duty to God, my King, Church, and Country;
+<pb facs="tcp:96733:8"/>thereby ſetting forth Gods Juſtice, and my own deteſtation of con<g ref="char:EOLhyphen"/>cealing ſo execrable a ſin and ſinner. If it fail thy expectation, know that it was pen<g ref="char:EOLhyphen"/>ned at ſome few ſpare hours in a fortnights re<g ref="char:EOLhyphen"/>tirement into the Coun<g ref="char:EOLhyphen"/>try, where I was depri<g ref="char:EOLhyphen"/>ved of all Books, and o<g ref="char:EOLhyphen"/>ther convenient Helps for a work of this Na<g ref="char:EOLhyphen"/>ture. Take therefore in good part what thou li<g ref="char:EOLhyphen"/>keſt, and leave the im<g ref="char:EOLhyphen"/>perfections to me, for
+<pb facs="tcp:96733:9"/>they are mine, and I am thine,</p>
+            <closer>
+               <signed>
+                  <hi>In all Friendly Offices,</hi> WILLIAM YONGE.</signed>
+            </closer>
+            <postscript>
+               <l>
+                  <hi>Wit was his life, then it was fit,</hi>
+               </l>
+               <l>
+                  <hi>Death ſhould ſucceed th'end<g ref="char:EOLhyphen"/>ing of's Wit.</hi>
+               </l>
+            </postscript>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:96733:9"/>
+            <head>THE AUTHORS APOLOGIE.</head>
+            <p>I Have in this Task un<g ref="char:EOLhyphen"/>dertaken one that hath overtaken many; <hi>Vas ignominiae,</hi> a contemptible fellow, a Matchivilian, one that would pretend love, but intend miſchief; his chiefeſt amity, was but diſſembled enmity, having words as ſoft as butter, or oyl, yet the poi<g ref="char:EOLhyphen"/>ſon of Aſps was under his
+<pb facs="tcp:96733:10"/>Tongue; For his <hi>Ave</hi> did threaten a <hi>vae,</hi> which I ever warded off by minding <hi>So<g ref="char:EOLhyphen"/>lomons Cave,</hi> Though he ſpeak favourably, beleeve him not, <hi>Prov. 26.25.</hi> in ſeeking to finde him out, I had almoſt loſt my ſelf; as I have loſt my means there<g ref="char:EOLhyphen"/>by ſome years ſince; and though no man remembreth <hi>the afflictions of</hi> Joſeph,<note place="margin">A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 6 6.</note> 
+               <hi>or the burden of</hi> Ephra<g ref="char:EOLhyphen"/>im, yet in the midſt of my unhappy Solitudes, I minde that Divine Cordial;</p>
+            <p>
+               <hi>Mens mea ne triſtes
+<pb facs="tcp:96733:10"/>Chriſtus tibi cuncta miniſtrat.</hi>
+            </p>
+            <p>
+               <hi>Munera quae vitae fune<g ref="char:EOLhyphen"/>ra quaequae levant.</hi>
+            </p>
+            <p>To be left remedileſs, and aſsigned over as a Spectacle for Deriſion, or a By-word to all Regicides, would ſet a ſtop to true Loyalty, and urge a true Subject rather with <hi>Stilpo</hi> to ſet his fin<g ref="char:EOLhyphen"/>ger on his lips, and ſeal them up to ſilence, than like <hi>At<g ref="char:EOLhyphen"/>las</hi> to bring the World a<g ref="char:EOLhyphen"/>bout his ears; a Reprobate to true Allegiance might ſoon yeeld to Temptations, to co<g ref="char:EOLhyphen"/>ver the moſt horrid of Trea<g ref="char:EOLhyphen"/>ſons;
+<pb facs="tcp:96733:11"/>but the Oath of God, <hi>Eccleſ. 8.2.</hi> and thoſe hea<g ref="char:EOLhyphen"/>venly Appeals from the in<g ref="char:EOLhyphen"/>nocent blood of my Martyred King ſounding in my ears,<note place="margin">1 Pet. 2.13.</note> and commanding me inſtrumen<g ref="char:EOLhyphen"/>tally to ſet ſorth his unſpotted innocence by bringing this his moſt pernicious Le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch to a condign puniſhment, extirpate an Incendiary, that thirſted for the deſtruction of the King, Country, Church, and People, and ſatiate himſelf with innocent blood, masking all with the Vizard of Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>I have often ſeen thoſe ſad
+<pb facs="tcp:96733:11"/>Extaſies, and heard thoſe direful expreſsions uttered by this Regicide, and that frequently upon the appre<g ref="char:EOLhyphen"/>henſions of wrath and ſhame due for that infernal Conſpi<g ref="char:EOLhyphen"/>racy of his, crying out, <hi>That he was innocent of ſpil<g ref="char:EOLhyphen"/>ling the Kings bloud,</hi> when there were no diſcourſes which could mind him of his Murther uſed by me or any preſent; but forced there<g ref="char:EOLhyphen"/>to by the dreadful dictates of an accuſing conſcience, he would thus trumpet out his own ſhame and ruin. <hi>S. Ber<g ref="char:EOLhyphen"/>nard</hi> ſaith, <hi>Tutâ conſci<g ref="char:EOLhyphen"/>entia
+<pb facs="tcp:96733:12"/>praeſtari poſſunt, quae propter conſcienti<g ref="char:EOLhyphen"/>am praeſtanda ſunt,</hi> That may be done with a ſafe con<g ref="char:EOLhyphen"/>ſcience, that is to be done for conſcience ſake.</p>
+            <p>Then when the Word of God, the cryes of innocent blood, Loyalty, his Countries ruine, the tears of his Mo<g ref="char:EOLhyphen"/>ther then Church, and a mans own conſcience do all unani<g ref="char:EOLhyphen"/>mouſly awaken him to a ne<g ref="char:EOLhyphen"/>ceſsitated duty that lies in<g ref="char:EOLhyphen"/>cumbent upon him, nay him alone and none other but he, and to falter in the perfor<g ref="char:EOLhyphen"/>mance of it, were to ſeaſon
+<pb facs="tcp:96733:12"/>the peace of his conſcience with ſuch corroſives as this Impoſtor had; nay to be his co-heir of hell and helliſh fears: Who but a damned Reprobate could reſiſt, or ſit down in ſilence?</p>
+            <p>Theſe impulſive cauſes gave me encouragement to act what I have acted, and do reſt ſo well ſati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fied in what is done, that inſteed of growing reluctant, I do cor<g ref="char:EOLhyphen"/>dially joy in this, that provi<g ref="char:EOLhyphen"/>dence ſhould ſelect me to be the Agitator: neither ſhall it repent me, that I was the firſt that objected this Trea<g ref="char:EOLhyphen"/>ſon
+<pb facs="tcp:96733:13"/>to his charge in the Par<g ref="char:EOLhyphen"/>liament, as Judge <hi>Terril</hi> can teſtifie.</p>
+            <p>Many hard ſentences have paſſed on me, and I am dai<g ref="char:EOLhyphen"/>ly reproached for it, and branded with names of igno<g ref="char:EOLhyphen"/>minie.</p>
+            <p>To reward good with e<g ref="char:EOLhyphen"/>vil is divelliſh, the Prophets were ſo, the Apoſtles ſo, nay, our Saviour was ſo re<g ref="char:EOLhyphen"/>warded: Why then ſhall I grudge to drink of that cup of which the Son of God, and the ſons of God have plenti<g ref="char:EOLhyphen"/>fully drank: It is an honor to me, that I am cloathed with
+<pb facs="tcp:96733:13"/>diſhonor, for honouring the memory of my unparallell'd Prince; quitting my Coun<g ref="char:EOLhyphen"/>try of ſuch a fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ebrand, and ſetting an end to the Church<g ref="char:EOLhyphen"/>es ſorrows, who laboured to be delivered of ſuch a falſe Conception and horrid Viper, <hi>quaſi vi parens,</hi> that did eat out her bowels: Neither <hi>Iſhmaels</hi> tongue, <hi>Achans</hi> Wedge, nor <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzars</hi> menaces, ſhould ſow up my mouth, fright<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n my ſpirit, or reſtrain my conſcience from giving Tray<g ref="char:EOLhyphen"/>tors their due benevolence, and to ſtigmatize them as I
+<pb facs="tcp:96733:14"/>have done this falſe Prophet; nay, you ſhall as ſoon per<g ref="char:EOLhyphen"/>ſwade old <hi>Eleazer</hi> to eat ſwines fleſh, limn the water, write on duſt, and my five fingers to grow of one length as to make me guilty of con<g ref="char:EOLhyphen"/>cealing Treaſon againſt the perſon, parts or power of that Holy and Anointed of the Lord, my dread Sove<g ref="char:EOLhyphen"/>raign.</p>
+            <p>Let Satan cry, I will de<g ref="char:EOLhyphen"/>ter thee, the world cry, I will forſake thee, and the wicked cry, we will allure thee; I will reſt upon this, <hi>Hominis invidia, non
+<pb facs="tcp:96733:14"/>nocet ubi Deus amat,</hi> Envy cannot injure him that God loves: My Loyalty will crown me, my Magnanimi<g ref="char:EOLhyphen"/>ty will ſupport me, and my conſcience, which is <hi>mille teſtes,</hi> a thouſand witneſſes, will ſatisfie me of well-do<g ref="char:EOLhyphen"/>ing. <hi>Sola ſufficit pietas</hi> Religion is my portion, and I am thereby invited, encou<g ref="char:EOLhyphen"/>raged and ſupported in yield<g ref="char:EOLhyphen"/>ing both active and paſsive obedience to that <hi>poteſtas ſupereminens à Deo or<g ref="char:EOLhyphen"/>dinata,</hi> that ſupreme pow<g ref="char:EOLhyphen"/>er, eſtabliſhed or decreed by God alone; My King, my
+<pb facs="tcp:96733:15"/>Country, the Church, and my own conſcience, <hi>et abſ<g ref="char:EOLhyphen"/>que, hac neque mens, neque vires, neque e<g ref="char:EOLhyphen"/>ventus,</hi> Neither knowledg will, nor good ſucceſſe.</p>
+            <p>What honour is it for a man to be a tamous Rebell, a learned Heretick, or an uncharitable Chriſtian? as much as to have the ſpecies of a man, without the ſimi<g ref="char:EOLhyphen"/>litude of God; to be a painted Sepulcher, or Gods foole, <hi>Luke 21. Vir<g ref="char:EOLhyphen"/>tus in ſe lucida, ſed in<g ref="char:EOLhyphen"/>ter malos lucidior,</hi> Ver<g ref="char:EOLhyphen"/>tue of it ſelfe is amiable,
+<pb facs="tcp:96733:15"/>but more ſplendent amongſt vicious perſons; like a Di<g ref="char:EOLhyphen"/>amond ſet injet. As <hi>Noahs</hi> perfection was more and more amiable, by how much more vile the world was: He that will preſerve a good Memorial to poſterity, muſt live well: <hi>Diu vivere, eſt bene vivere;</hi> To live long, is to live well; that his name and fame may ſmell like ſweet Spices in the braying. For it is commonly true, <hi>Qualis vi<g ref="char:EOLhyphen"/>ta, finis ita;</hi> as a mans life is, ſuch is his end, as in
+<pb facs="tcp:96733:16"/>this, <hi>diliro ſene,</hi> mo<g ref="char:EOLhyphen"/>piſh old man, who had ſpent his Sixty three years of living ſo ſlaviſhly, as if he delighted as well in his life time, as he did at his death <hi>ululare inter Lupos,</hi> to howle amongſt Wolves.</p>
+            <p>But why do I ſtir up his aſhes? <hi>Molliter oſſa cubent,</hi> Let his bones reſt in peace, ſaith the hea<g ref="char:EOLhyphen"/>then; yet in that heaven hath not thought him wor<g ref="char:EOLhyphen"/>thy of a Funeral, in me<g ref="char:EOLhyphen"/>mory of our ſmall acquam<g ref="char:EOLhyphen"/>tance, I ſhall ſet forth his
+<pb facs="tcp:96733:16"/>Life, as a patern of, but not for Rebellion; for that needs none in this our Iland; <hi>Proh hominum fidem!</hi> O the fidelity of men!</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:96733:17"/>
+            <pb n="1" facs="tcp:96733:17"/>
+            <head>
+               <hi>Englands Shame:</hi> OR THE UNMASKING OF A Politick ATHEIST IN THE LIFE and DEATH OF <hi>H<g ref="char:V">Ʋ</g>GH PETERS</hi>
+            </head>
+            <p>BE it that it is an A<g ref="char:EOLhyphen"/>phoriſm upon Di<g ref="char:EOLhyphen"/>vine Record,<note place="margin">Iſai. 59.2.</note> 
+               <hi>The name of the wicked ſhall rot. Quia indignus eſt a<g ref="char:EOLhyphen"/>more &amp; favore Dei,</hi> being un<g ref="char:EOLhyphen"/>worthy of the love or account of God, yet ſucceeding Ages have continued a Regiſtry of
+<pb n="2" facs="tcp:96733:18"/>the actions of <hi>Julian</hi> the A<g ref="char:EOLhyphen"/>poſtate, <hi>Judas</hi> the Traitor, and <hi>Novatus</hi> the Heretick; all which if loſt, they might again be revived in the ſtorie of this <hi>Levite,</hi> the ſon of a <hi>Levite,</hi> who being but an <hi>Ig<g ref="char:EOLhyphen"/>nis fatuus,</hi> a vapour, was car<g ref="char:EOLhyphen"/>ried through our Horizon like a moveable Star, either <hi>Jupi<g ref="char:EOLhyphen"/>ter</hi> or <hi>Mars</hi> ſuperintendent Orbs; rather <hi>Saturn</hi> or <hi>Mercu<g ref="char:EOLhyphen"/>ry,</hi> as the ſequel proves, but at the beſt but a blazing Co<g ref="char:EOLhyphen"/>met which was ſoon ſhot, and his light went out like a ſnuff; <hi>Sic redit in nihilum, quod fuit ante nihil;</hi> Thus he that was nothing, became worſe then nothing; for in Apoſtacy and wicked policies, he did equalize and imitate <hi>Julian,</hi> his trea<g ref="char:EOLhyphen"/>ſon was not unlike that of <hi>Ju<g ref="char:EOLhyphen"/>das,</hi>
+               <pb n="3" facs="tcp:96733:18"/>and for his Hereſies he far exceeded <hi>Novatus;</hi> the one being execrable, the other un<g ref="char:EOLhyphen"/>parallell'd, and the laſt dam<g ref="char:EOLhyphen"/>nable.</p>
+            <p>In his infancy he was by his Father brought up neer <hi>Foy,</hi> the place of his Birth, in <hi>Cornwal;</hi> his indulgent Parents had him frequently Catechi<g ref="char:EOLhyphen"/>zed in the Fundamentals of the Proteſtant Religion, or Church of <hi>England,</hi> kept him ſtrict to the hearing of Com<g ref="char:EOLhyphen"/>mon Prayers by our Liturgie commanded, both for pub<g ref="char:EOLhyphen"/>like and private duties, and had him bred up in a School of good Narture, where he profited much in Moral Pre<g ref="char:EOLhyphen"/>cepts and Learning, untill he was ſent from thence to the Univerſity of <hi>Cambridge,</hi> and
+<pb n="4" facs="tcp:96733:19"/>there was admitted into <hi>Jeſus</hi> Colledge.</p>
+            <p>But his former Education not being ſanctified, nor the name of Jeſus ſetting a limit to his boundleſs liberty, to which he was remarkably in<g ref="char:EOLhyphen"/>clined from his Cradle, and was ſo overſwaied by that <hi>vi<g ref="char:EOLhyphen"/>tioſitas haereditariâ quae neutra<g ref="char:EOLhyphen"/>liter averſi ſumus omni bono, &amp; ad omne malum propenſi,</hi> that hereditary evill whereby we are averſe to that which is good, and prone to ſin, that neither the Word of God, nor the Works of God could de<g ref="char:EOLhyphen"/>terr him from impiety, till he became altogether indepen<g ref="char:EOLhyphen"/>dent to the will of God, <hi>quaſi privatus gratia Dei,</hi> as ha<g ref="char:EOLhyphen"/>ving loſt the favour of God, through affective ignorance,
+<pb n="5" facs="tcp:96733:19"/>he precipitates himſelf to e<g ref="char:EOLhyphen"/>vill practices, making good what had been ſpoken of him in former Ages by the Devil and his Confederates, That a Chicken ſhould a<g ref="char:EOLhyphen"/>riſe out of the Weſt; which ſhould flye over all <hi>England,</hi> and do much harm to moſt men.</p>
+            <p>A Chicken! He was a Cockatrice or Baſilisk, whoſe eyes were peſtiferous to all men; nay, to himſelf at the laſt. There the torrent of an over-weaning conceit of his own Genius, made him addi<g ref="char:EOLhyphen"/>cted to, and guilty of libelling, untill he ſmarted for it, for his laſhes were repaid with laſhes; <hi>durus ſermo,</hi> an hard ſaying, to phyſick the tail to cure the tongue; that <hi>virgula di<g ref="char:EOLhyphen"/>vina,</hi>
+               <pb n="6" facs="tcp:96733:20"/>divine rod, could not reduce him;</p>
+            <q>
+               <l>
+                  <hi>Quo ſemel eſt imbuta recens ſervabit edorem,</hi>
+               </l>
+               <l>
+                  <hi>Teſta diu,</hi> — ‐</l>
+            </q>
+            <p>This Casket of counterfeits, retains the ſent of his firſt ſeaſoning, till at the laſt his irreluctancy made him more obdurate and irrefragable to the Civil Government of that Collegiate Society; <hi>Conſuetudo poccandi tollit ſenſum peccati:</hi> cuſtome of ſinning takes off the ſenſe of ſin; and leaſt he ſhould become exemplary to tender judgments, was ex<g ref="char:EOLhyphen"/>pulſed the Univerſity.</p>
+            <p>Now he being delivered o<g ref="char:EOLhyphen"/>ver to a careful life, leaſt his bread be that of ſorrow, and his cloathing diſhonor and po<g ref="char:EOLhyphen"/>verty,
+<pb n="7" facs="tcp:96733:20"/>he having no way left him to ſubſiſt by, like an Eng<g ref="char:EOLhyphen"/>liſh <hi>Guſman,</hi> reſolves upon in<g ref="char:EOLhyphen"/>genious ſhifts, for that he ever delighted more in wit than grace, till at laſt, forgetting his abſtraction from an Orthodox Miniſter (his Father) and the place of his late matriculati<g ref="char:EOLhyphen"/>on, the ſaid Univerſitie, after his two years reſidence were thus nigh finiſhed, he as an Exile haſtens to <hi>London,</hi> in aſſurance to finde therein men of his temper, with whom he might aſſociate and ſolace himſelf, and in a ſhort time fitted him for the life of a Stage-player in a common ſo<g ref="char:EOLhyphen"/>ciety, from whence after vent<g ref="char:EOLhyphen"/>ing his frothy inventions, he had a greater call to a higher promotion; namely, to be the
+<pb n="8" facs="tcp:96733:21"/>Jeſter (or rather a Fool) in <hi>Shakeſpears</hi> Company of Play<g ref="char:EOLhyphen"/>ers: <hi>Omne ſimile eſt appetibi<g ref="char:EOLhyphen"/>le ſui ſimilis,</hi> every like deſires his like: There he ſo long ſpor<g ref="char:EOLhyphen"/>ted himſelf with his own decei<g ref="char:EOLhyphen"/>vings, till at laſt like an Infidel Jew, he conceived preaching to be but fooliſhneſs, and time ſpent in Gods Houſe to hear his O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>acles, was a means to deſtroy his, and his complices vain re<g ref="char:EOLhyphen"/>creations.</p>
+            <p>And ſo it proved with him; for in a ſhort time after going on the Lords Day to hear one Doctor <hi>Dee</hi> preach at S. <hi>Faiths</hi> Church, that he might have a Subject to ſport himſelf with, inſtead of finding occaſions to deride learning, that learn<g ref="char:EOLhyphen"/>ed <hi>Nuntio</hi> powerfully preſſing to the Conſcience the burden
+<pb n="9" facs="tcp:96733:21"/>of the Law, and hainouſneſs of ſin, like another <hi>Felix</hi> he was ſmitten with a horror of Conſcience for his guilded ſins, which he had ſo ſeemingly ex<g ref="char:EOLhyphen"/>tenuated, and thereby he be<g ref="char:EOLhyphen"/>came almoſt a Convert; Oh then <hi>quam foelix Evangeliza<g ref="char:EOLhyphen"/>re,</hi> How welcome are the glad tidings of the Goſpel? He thus well nigh engulfed in deſpair, <hi>Lex lumen &amp; dictamen eſt re<g ref="char:EOLhyphen"/>ctae rationis in intellectu,</hi> the Law is a light and dictator of right apprehenſions in the un<g ref="char:EOLhyphen"/>derſtanding: He deſerts his companions and imployments, and retiring to his Chamber neer <hi>Fleet Conduit</hi> in <hi>London,</hi> continues there between hope and deſpair for one whole year and more: But that he and others of his conviction might
+<pb n="10" facs="tcp:96733:22"/>experimentally finde <hi>quod De<g ref="char:EOLhyphen"/>us eſt pater &amp; fons miſericor<g ref="char:EOLhyphen"/>diarum,</hi> God is the father and fountain of mercies; nay, God is an inexhauſtible treaſury of mercies, though Chriſt be his Cabinet wherein he hath ſhut up all his Jewels, that there is no ſin ſo foul that mercy cannot hide, nor any degree ſo deſperate, as that God can<g ref="char:EOLhyphen"/>not redeem from it, he gives him a further taſte of his good<g ref="char:EOLhyphen"/>neſs, and earneſt penny of mer<g ref="char:EOLhyphen"/>cy, ſo that I may ſay, <hi>O ad<g ref="char:EOLhyphen"/>miranda charitas, &amp; chara tranquillitas, quaminveſtigamus ex gratuita Dei miſericordia;</hi> wonderful love and much de<g ref="char:EOLhyphen"/>ſired peace, wherewith we are inveſted out of the free mercy of God; his mercy rejoyceth more in our Salvation than his
+<pb n="11" facs="tcp:96733:22"/>Juſtice doth triumph in our confuſion, it being his inſepa<g ref="char:EOLhyphen"/>rable property to be found e<g ref="char:EOLhyphen"/>ver giving, forgiving and for<g ref="char:EOLhyphen"/>getting; forgetting injuries of<g ref="char:EOLhyphen"/>fered to the ſacred eyes of his glory, forgiving ſins, and gi<g ref="char:EOLhyphen"/>ving gifts and graces to fit men for the life of grace, and intereſt them in the life of glory; his ſuffering growing occidental, the night of his heavineſs thus drawing to an end, the day of his rejoycing began to dawn.</p>
+            <p>A Gentleman living neer <hi>Malden</hi> in <hi>Eſſex,</hi> then a Lodg<g ref="char:EOLhyphen"/>er in the ſame houſe, hearing of his diſtemper, as it well be<g ref="char:EOLhyphen"/>came a Gentleman to foſter Learning, and ſhew remorſe, enquires of his parts and edu<g ref="char:EOLhyphen"/>cation, and thereby concludes
+<pb n="12" facs="tcp:96733:23"/>him a fit perſon to be ſetled in a Free School of 24 <abbr>l.</abbr>
+               <hi>per annum,</hi> then void in that Coun<g ref="char:EOLhyphen"/>ty, and at his diſpoſal.</p>
+            <p>The proffer thereof was no ſooner made unto <hi>Peters,</hi> but he preſently and thankfully accepts of it, concluding it a te<g ref="char:EOLhyphen"/>ſtimony of Gods mercies yet reſerved for him; But theſe proved to be but hypocritical expreſſions, as moſt of his acti<g ref="char:EOLhyphen"/>ons were; <hi>Simulata ſanctitas duplex iniquitas,</hi> a counterfeit holineſs is a double impiety: For after ſome applauſe a<g ref="char:EOLhyphen"/>mongſt the Vulgar, and <hi>Peters</hi> pence were hoarded up, he falls into a Tympanie of pride, and then <hi>Epheſian-like,</hi> the vain<g ref="char:EOLhyphen"/>glory of the one made him for<g ref="char:EOLhyphen"/>get his God, and the value of the other to muzzle himſelf in
+<pb n="13" facs="tcp:96733:23"/>a heedleſs neglect of that love he found in his late recovery; ſo that his luſts over-poiſing him, and his lucre raiſing him to a high eſteem of his worth<g ref="char:EOLhyphen"/>leſs worth, he feigns himſelf a Suitor, or rather a politick Servant to one Miſtris <hi>Read</hi> a Widow woman dwelling neer unto him, (though ſhe was fa<g ref="char:EOLhyphen"/>mous for her excellent endow<g ref="char:EOLhyphen"/>ments, and had made liberal contributions to cheriſh him in the ebb of his fortune, had children, and an eſtate of two or three hundred pounds year<g ref="char:EOLhyphen"/>ly) he neglects no opportuni<g ref="char:EOLhyphen"/>ties to enſnare her by captiva<g ref="char:EOLhyphen"/>ting of her to ſatisfie his burn<g ref="char:EOLhyphen"/>ing deſires, and inſatiable thir<g ref="char:EOLhyphen"/>ſtings after her perſon and e<g ref="char:EOLhyphen"/>ſtate.</p>
+            <p>Many Comical expreſſions
+<pb n="14" facs="tcp:96733:24"/>(in which he was well verſed by his former employment in the Playhouſe) and enticing glances paſſing from him at ſeveral times, thereby to hint to her his Deſign, they were received to be but as jocular Diſcourſes, concluding with her ſelf that ſuch a Pedantick Peaſant durſt not clothe him with ſo much Impudency as to eſteem himſelf worthy of her Vertues, or prove ſo beſti<g ref="char:EOLhyphen"/>ally ingrateful, as to requite her former charities with an at<g ref="char:EOLhyphen"/>tempt of her diſhonour and ruine; thus would ſhe always bury them in a ſcornful ſilence, and heedleſly neglect them; untill at the laſt he one morn<g ref="char:EOLhyphen"/>ing finding her Chamber door open, and ſhe ſickly in her bed, he with confidence (or ra<g ref="char:EOLhyphen"/>ther
+<pb n="15" facs="tcp:96733:24"/>impudence) entred the Door, and pretended a friend<g ref="char:EOLhyphen"/>ly viſit; but ſitting on the Bed<g ref="char:EOLhyphen"/>ſide, did at laſt caſt himſelf up<g ref="char:EOLhyphen"/>on it and claſped her in his arms; at which a Confederate of his, formerly fitted for the deſign, was by a private ſign ſummoned into the Chamber, where finding them thus con<g ref="char:EOLhyphen"/>teſting, he ſaluted them with a <hi>God give you joy:</hi> Then pre<g ref="char:EOLhyphen"/>ſently both he and <hi>Peters</hi> pub<g ref="char:EOLhyphen"/>liſh it that they were both bed<g ref="char:EOLhyphen"/>ded together: Her modeſtie was ſuch, and her reputation like to be traduced in publike; to ſalve all, ſhe <hi>citra voluntatem,</hi> againſt her will, unwittingly condeſcenced to a clandeſtine Marriage, though it was far a<g ref="char:EOLhyphen"/>bove his merits, and much be<g ref="char:EOLhyphen"/>neath her vertues: but this
+<pb n="16" facs="tcp:96733:25"/>forced love not being reall, or ſincere on either part, it brought upon them both that plague of contention which is uſually the Harveſt of ſuch Marriages: Both being by the clamours of the Countrey for<g ref="char:EOLhyphen"/>ced to live in <hi>London,</hi> their e<g ref="char:EOLhyphen"/>ſtate is thereby much impove<g ref="char:EOLhyphen"/>riſhed, and they inclining to neceſſity: he having within him<g ref="char:EOLhyphen"/>ſelf ſome gleanings or reliſhes of a Church Oeconomy, after ſome overtures of preferment were made unto him, ſhould he take holy Ordes on him? He reſolved to diſſemble what he ever loved, and lived by, even Schiſm and Sedition; <hi>Schiſ<g ref="char:EOLhyphen"/>maticus communionem Chriſtia<g ref="char:EOLhyphen"/>num abrumpit,</hi> a Schiſmatick is he that breaks off all Chriſtian community; a conviction and
+<pb n="17" facs="tcp:96733:25"/>converſion being pretended, and authentick Certificates framed on his behalf, he had (by the Interceſſion of fome Friends) an acceſs to Doctor <hi>Mountain</hi> then Lord Biſhop of <hi>London,</hi> and was by him a<g ref="char:EOLhyphen"/>mongſt others ordained Prieſt and Deacon, he taking the Oath of Allegiance and Supre<g ref="char:EOLhyphen"/>macy, and vowing that <hi>votum morale, &amp; religioſa pollicita<g ref="char:EOLhyphen"/>tio</hi> eternal Vow, and religious Engagement (in the preſence of God and the great Congre<g ref="char:EOLhyphen"/>gation) <hi>viz.</hi> Canonical obedi<g ref="char:EOLhyphen"/>ence, <hi>in rebus licitis &amp; honeſtis</hi> in things lawful and honeſt, ſea<g ref="char:EOLhyphen"/>ling the ſincerity of his heart herein by receiving the Sacra<g ref="char:EOLhyphen"/>ment, and thus becomes an Hypocrite upon record, and in mans account; when as all
+<pb n="18" facs="tcp:96733:26"/>oathes and vowes ſhould be ta<g ref="char:EOLhyphen"/>ken <hi>ſano judicio,</hi> with a right underſtanding, as well as <hi>libe<g ref="char:EOLhyphen"/>ra voluntate,</hi> a freedom of the will, that they prove not to be arbitrary, as it is frequently urged by the Schiſmaticks of theſe times.</p>
+            <p>He having thus, like an old dog Fox, gotten into the Vine<g ref="char:EOLhyphen"/>yard to deſtroy the tender grapes, he bends his ſtudies to become popular, and finds it both pleaſing and profitable to be applauded amongſt the female ſex, not forgetting that the weakeſt judgements were ſooneſt corrupted, and the womens harts once diſſol<g ref="char:EOLhyphen"/>ved, would ſoon be caſt into his mould: They cry him up ſo loud, that his name doth
+<pb n="19" facs="tcp:96733:26"/>eccho over all the City, and his friends grew numerous, in<g ref="char:EOLhyphen"/>ſomuch that one of the great<g ref="char:EOLhyphen"/>eſt Pariſhes, St. <hi>Sepulchers,</hi> muſt be aſſigned for his Sea, to inveigh and act againſt that <hi>Perpetua Eccleſiae Novi Teſta<g ref="char:EOLhyphen"/>menti Gubernatio &amp; inſpectio,</hi> That perpetual Government, and overſeeing of the Church of the New Teſtament, Epiſ<g ref="char:EOLhyphen"/>copal Government: for there he continued a Lecturer near twenty years; and here of a Proteſtant turnes Independant dependant, perſiſting in his Apoſtacy to his former vow, ſtill adhering to his effeminate Flock, and pleaſing the wo<g ref="char:EOLhyphen"/>men eſpecially of that Pariſh, more eſpecially the Butchers wife, but moſt eſpecially the
+<pb n="20" facs="tcp:96733:27"/>Vinteners wife at the ſigne of the Goat; ſo that he could at pleaſure command ordinary fleſh for his paunch, the Goats fleſh for his cat, with the beſt wine into the bargain.</p>
+            <p>But he being detected, was proſecuted by the one at the Law, and by the other at club Law, till he found it fatally true, That he muſt needs go whom God leaves, and the di<g ref="char:EOLhyphen"/>vel drives; and ſo he provides and ſhips himſelf for <hi>Roterdam: Sic tranſit Hugo,</hi> thus vaniſheth <hi>Hugh.</hi>
+            </p>
+            <p>But this Gadarene having thus brought his hogs to a fair market, and rendred himſelf ſcurrilous upon record, as ap<g ref="char:EOLhyphen"/>pears by the Regſtry of <hi>Lon<g ref="char:EOLhyphen"/>dons</hi> Dioceſs, will not part
+<pb n="21" facs="tcp:96733:27"/>with his <hi>Dalilahs</hi> at ſo cheap a rate; nay, his Hugonots of <hi>England</hi> were ſo bewitched with his confident aſſertions, That he was enforced only to eſcape the tyranny of Epiſco<g ref="char:EOLhyphen"/>pal Government, that they ſighed at the loſs of ſuch a pre<g ref="char:EOLhyphen"/>cious villain (a precious one indeed, that made no conſci<g ref="char:EOLhyphen"/>ence of breaking his oathes, performing his vowes, nor ſup<g ref="char:EOLhyphen"/>porting the dignity of his fun<g ref="char:EOLhyphen"/>ction, but makes a ſhipwrack of all theſe) though their wives had greater cauſe to lament their loſs of him then their huſ<g ref="char:EOLhyphen"/>bands had.</p>
+            <p>So that as he had them at his beek, he muſt receive from them ſome tokens of love, which was ſeen in their liberal
+<pb n="22" facs="tcp:96733:28"/>contributions gathered for his voyage; then many prayers muſt be ſet up for this Jebu<g ref="char:EOLhyphen"/>ſite.</p>
+            <p>But obſerve the iſſue. <hi>Pe<g ref="char:EOLhyphen"/>ters</hi> now arriving at his wiſhed <hi>Canaan,</hi> the Land of Promiſes, is triumphantly received into the ſanctified parlour of <hi>Roter<g ref="char:EOLhyphen"/>dam,</hi> and there welcomed with kiſſes of the holy. <hi>O quam ju<g ref="char:EOLhyphen"/>cunde &amp; honefle!</hi> O how ſin<g ref="char:EOLhyphen"/>cerely and honeſtly! But na<g ref="char:EOLhyphen"/>ture having the predominance in him, far exceding grace, he not able to waſh himſelf of his black ſpots of lying and whor<g ref="char:EOLhyphen"/>ing, falls to his wonted pra<g ref="char:EOLhyphen"/>ctiſes; that as he had obtained his Ordination by lying, and belying the holy Ghoſt, a<g ref="char:EOLhyphen"/>vowing his c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll to that functi<g ref="char:EOLhyphen"/>on
+<pb n="23" facs="tcp:96733:28"/>to be from heaven, he fol<g ref="char:EOLhyphen"/>lowes his old Trade of lying, for that that trick never failed him, but once at the <hi>Old Baily</hi> in <hi>London,</hi> being the day of his Tryal and ſentencing to death.</p>
+            <p>The Paſtor of that Congre<g ref="char:EOLhyphen"/>gation was at that time one <hi>Thomas Bartlet,</hi> a Doctor of Phyſick, and an Engliſh man, who lived plentifully by their voluntary contributions, and maintained his wife and diverſe children in an handſom equi<g ref="char:EOLhyphen"/>page.</p>
+            <p>This morſel made <hi>Peters</hi> his teeth water, and having ac<g ref="char:EOLhyphen"/>cording to his old wont, an e<g ref="char:EOLhyphen"/>vil eye upon other mens wel<g ref="char:EOLhyphen"/>fare; to wreath himſelf into
+<pb n="24" facs="tcp:96733:29"/>comes acquainted with this Doctor,</p>
+            <p>Tuta frequenſque via eſt per a<g ref="char:EOLhyphen"/>mici fallere nomen,</p>
+            <p>
+               <hi>Tuta frequenſque licet, ſit via crimen habet.</hi>
+            </p>
+            <p>
+               <hi>A ſafe and eaſie way it is by friendſhip to deceive.</hi>
+            </p>
+            <p>
+               <hi>As ſafe and eaſie as it is, 'tis knavery by your leave.</hi>
+            </p>
+            <p>Thus like a ſecond <hi>Janus,</hi> having two faces under one hood, a <hi>Magus</hi> with two tongues in one head, or a <hi>Ju<g ref="char:EOLhyphen"/>das,</hi> bearing two hearts in one breſt: to ſqueeze <hi>Bartlet</hi> out, and wind himſelf in, a ſcandal muſt be forged againſt <hi>Bartlet,</hi> then will his familiarity prove
+<pb n="25" facs="tcp:96733:29"/>
+               <hi>Bartlets</hi> ruine, for theſe aiery Spirits are ſo volitile in their good eſtimation of all men, that they are as changeable in this, as in maintaining their Moonſhine Doctrine; and are as eaſily induced to believe a lye, as they are ſeduced to ly<g ref="char:EOLhyphen"/>ing opinions.</p>
+            <p>This Conventicle concludes both theſe collapſed brethren to have been of priſtine ac<g ref="char:EOLhyphen"/>quaintance, and therefore do eaſily lend an eareto their re<g ref="char:EOLhyphen"/>ports, eſpecially that of him, who could beſt glaze it over with religious phraſes, and preſent it in that ſhell of a deſire of Godneſſe and Holi<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>Thus theſe Brethren began to grow into competition;
+<pb n="26" facs="tcp:96733:30"/>then <hi>Hugo</hi> a Maſter of Art in that of lying, impeaches <hi>Bart<g ref="char:EOLhyphen"/>let</hi> of Bigamy, and impudent<g ref="char:EOLhyphen"/>ly affirmes, That he had a wife in <hi>England,</hi> as well as that with him. Nay, <hi>Hugo,</hi> forgetting his own ſhame and adulteries, to prevent any ob<g ref="char:EOLhyphen"/>ſtructions, whiſpers it abroad amongſt his Goſſiping crew, who takes it for an Oracle, as coming from the mouth of a godly, zealous and honeſt Divine, <hi>viz.</hi> Religious Mr. <hi>Peters.</hi> God ha' mercy Par<g ref="char:EOLhyphen"/>ſon, of all knaves, none like a Prieſt knave.</p>
+            <p>This Phyſick wrought ſo pathetically with theſe ſqueezy ſtomacked Chriſtians, who are apt to ſurfeit at any other mans failings, that it made
+<pb n="27" facs="tcp:96733:30"/>them ſpew out <hi>Bartlet,</hi> and <hi>Peters</hi> as an immaculate man, muſt be ſetled in his ſtead. A bleſſed Reformation, and no doubt, but many of that Gang might find good content there<g ref="char:EOLhyphen"/>by, as the wiſe of one <hi>Frank<g ref="char:EOLhyphen"/>lin,</hi> an Engliſh man, keeping a Victualling houſe in that Ci<g ref="char:EOLhyphen"/>ty did commonly find; for <hi>Hugo</hi> found no life like to Le<g ref="char:EOLhyphen"/>chery, being it produced him there alſo, as well as in <hi>Smith<g ref="char:EOLhyphen"/>field</hi> in <hi>London,</hi> both meat and money; and in that Lying and Whoredome proved ſo profita<g ref="char:EOLhyphen"/>ble and pleaſing to him, he becomes as devoted to it, as the Hart to the Tamarisk, who will not be beaten from it: nay, the Butcher, the Vintner, nor the Victualler ſhall beat him
+<pb n="28" facs="tcp:96733:31"/>into better manners, for that he was as ſenceleſs, as ſenſual; though Mr. <hi>Franklin</hi> might have ſpared ſome ſtripes for Country ſake, and ſome for Religion ſake) but it ſeems in that company like Prieſt like people, <hi>pares cum paribus facil<g ref="char:EOLhyphen"/>lime congregantur,</hi> equalls do eaſily agree with their equalls, they are liable to correction, and I wiſh that thoſe houſes were well furniſhed with ſuch Arras.</p>
+            <p>Thus his Minion after a fur<g ref="char:EOLhyphen"/>feit of his being too chargeable to her box, to preſerve the good eſteem her Husband had of her, (for Cuckolds are ſoo<g ref="char:EOLhyphen"/>neſt deluded, and moſt conten<g ref="char:EOLhyphen"/>ted) as alſo to have ſome other ſport for her monie, ſhe ac<g ref="char:EOLhyphen"/>quaints
+<pb n="29" facs="tcp:96733:31"/>her Husband of <hi>Peters</hi> his frequent attempts made to to beat up her quarters; an which <hi>Franklin</hi> grew zealous for a Conference with this Paſtor, and obſerving at his next coming that he had his former appetite, entertained him onely with Crabtree ſauce, and of that gave him his bel<g ref="char:EOLhyphen"/>ly full.</p>
+            <p>But in fear of worſe puniſh<g ref="char:EOLhyphen"/>ments he falls diſtracted, and ſo continued for neer three years; after his recovery he had a Miſcellany of judgments following him; for he had the head of a Fox, the heart of a Crocodile, the back of an Aſs, the reins of a Goat, and the claws of a Vulture: Of a Fox, ſubtilly contriving miſ<g ref="char:EOLhyphen"/>chief
+<pb n="30" facs="tcp:96733:32"/>undiſcernable. Of a Cro<g ref="char:EOLhyphen"/>codile, deſtroying whole Fa<g ref="char:EOLhyphen"/>milies, and then diſſembling ſorrow for thier ruines. Of an Aſs, infatigable in bearing re<g ref="char:EOLhyphen"/>proaches. Of a Goat, ſparing no woman in his luſt. Of a Vulture, few men eſcaping his claws. Nay, an <hi>Anthropopha<g ref="char:EOLhyphen"/>gos,</hi> devouring, ſhall I ſay, whole houſes, nay Pariſhes, yea Counties at once: Witneſs his Monuments in <hi>Wales,</hi> which ſhall be ſpoken of hereafter.</p>
+            <p>This ſubtil ſheep having again appeared amongſt his little ones, is reputed to be a ſcandal or offence to the Lambs, in regard of his backſliding at <hi>Franklins:</hi> But leaſt the wick<g ref="char:EOLhyphen"/>ed ones ſhould make them al<g ref="char:EOLhyphen"/>ſo a word of reproach, they'l
+<pb n="31" facs="tcp:96733:32"/>clap their ears to their heads, (I had almoſt ſaid horns) and to ſet an end to all controver<g ref="char:EOLhyphen"/>ſies about him, they raiſe a ſtock of 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> and <hi>Hugo</hi> muſt be intruſted therewith as their Factor for <hi>New England,</hi> from whence they longingly expect<g ref="char:EOLhyphen"/>ed the product for many years, but it lay in Huckſters hands, and was never accounted for, until the happy farewel, or direful <hi>Cataſtrophe</hi> at <hi>Charing-Croſs:</hi> who can without amaze<g ref="char:EOLhyphen"/>ment conſider the preſumption of this Miſcreant, in commit<g ref="char:EOLhyphen"/>ting himſelf to the mercy of the mercileſs ſeas, when after a ſhipwrack of his conſcience, <hi>ela<g ref="char:EOLhyphen"/>ta manu;</hi> with an high hand, nei<g ref="char:EOLhyphen"/>ther the terrors of death, which might ſuddenly ſurprize him
+<pb n="32" facs="tcp:96733:33"/>in his ſinful reſolutions, acted <hi>deſtinato concilio,</hi> with an un<g ref="char:EOLhyphen"/>daunted reſolution, nor the judgments of God to which he was lyable, could civilize this Propagator, but as an Inſtru<g ref="char:EOLhyphen"/>ment preſerved to ripen his ſin, <hi>Peccatum perpetrans ſcien<g ref="char:EOLhyphen"/>ter &amp; volenter,</hi> wittingly and willingly filling up the number of his ſins; or for a more ſhame<g ref="char:EOLhyphen"/>full end, he refolves a further <hi>Precipice</hi> himſelf into un<g ref="char:EOLhyphen"/>cleanneſs, earneſtly doing and allowing of the erronious cour<g ref="char:EOLhyphen"/>ſes of man, though they tend to death, till he becomes <hi>ana<g ref="char:EOLhyphen"/>thema maranatha,</hi> accurſed: After his arrival into <hi>New Eng<g ref="char:EOLhyphen"/>land,</hi> he like a Dog falls to his old vomit, for having buried his firſt Wife, marries another,
+<pb n="33" facs="tcp:96733:33"/>who by his ill uſage proved as mad as himſelf, and had iſſue which doth <hi>patriſare &amp; matri<g ref="char:EOLhyphen"/>ſare,</hi> the reaſon in nature is, <hi>par<g ref="char:EOLhyphen"/>tus ſequitur ventrem,</hi> then as he grew popular, ſo he grows rampant, untill ſeveral Excom<g ref="char:EOLhyphen"/>munications were iſſued out a<g ref="char:EOLhyphen"/>gainſt him for you know what, that had he not been protected by the Presbyterie of that Country, he had received his deſert there, and prevented <hi>Dun</hi> in <hi>England,</hi> and ſaved his Daughter the charges of ſo many crammed Capons, and bottles of Sack wherewith ſhe bottles of Sack wherewith ſhe cheriſhed him in <hi>Newgate,</hi> after his tryal and condemnation: Now of an Independent he be<g ref="char:EOLhyphen"/>comes a Presbyterian, an <hi>aliquid nihil,</hi> or a <hi>quid non,</hi> a ſome<g ref="char:EOLhyphen"/>thing,
+<pb n="34" facs="tcp:96733:34"/>a nothing, and what not? or he would not loſe a hair for Religion nor any wiſe man give him one for his honeſtie.</p>
+            <p>The Claſſical Clergy there finding him fitteſt for their de<g ref="char:EOLhyphen"/>ſign, to ſti up a Commotion in <hi>England</hi> they ever delight<g ref="char:EOLhyphen"/>ing to fiſh in troubled waters, do give him his Miſſion, with their benediction; where find<g ref="char:EOLhyphen"/>ing a Parliament according to their deſires, like another <hi>Ma<g ref="char:EOLhyphen"/>ſianello,</hi> he anſewers their <hi>Chorus,</hi> and cryes alſo King and Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>Thus taking his part from that ill-runed Quire, he roars it up and down the Citie and Country, yet driving at the deſtruction of King, Parlia<g ref="char:EOLhyphen"/>ment, and People: That as he
+<pb n="35" facs="tcp:96733:34"/>was the Patron of Blaſphemies, the Patriot of Rebellions, and Mirror of all Apoſtates and Impoſtors, ſo was he the quin<g ref="char:EOLhyphen"/>teſſence of cheating; nay, all the wit in <hi>London</hi> could not eſpie him until he had jugled their Plate with the Bodkins and Thimbles into <hi>Guild Hall,</hi> and that he might be more ca<g ref="char:EOLhyphen"/>pable of imployment, and ſeem leſs criminal, he utterly diſa<g ref="char:EOLhyphen"/>vows his Ordination or Conſe<g ref="char:EOLhyphen"/>cration by Biſhops, <hi>qui jus voca<g ref="char:EOLhyphen"/>tionis habent:</hi> who have the right of ordination. Thus hardning his heart, &amp; left to that <hi>privatio gratiae aſſiſtentes,</hi> loſs of prevent ing Grace, he was hoodwinked and ſubjected to that <hi>ipſiſsima excoecatio &amp; induration,</hi> that ſu<g ref="char:EOLhyphen"/>perlative blinenes &amp; hardneſs
+<pb n="36" facs="tcp:96733:35"/>of heart, which rendred him un<g ref="char:EOLhyphen"/>capable of timely repentance; <hi>ſera poenitentia raro vera,</hi> late repentance is ſeldome ſound.</p>
+            <p>That he might not become vagrant from his firſt underta<g ref="char:EOLhyphen"/>kings, he compoſes Canons to walk by:</p>
+            <p>The firſt is, To admire and flatter the Gentry:</p>
+            <p>The ſecond is, To delude and blinde the Commonal<g ref="char:EOLhyphen"/>tie:</p>
+            <p>The third is, To excite and cheriſh the Souldiery.</p>
+            <p>This is done, by applauding the one, Lying to the other, and Preaching to the reſt, tel<g ref="char:EOLhyphen"/>ling them, That they gained Martyrdome, and carried Je<g ref="char:EOLhyphen"/>ſus Chriſt in their Knapſacks; as if knavery rather then con<g ref="char:EOLhyphen"/>ſcience,
+<pb n="37" facs="tcp:96733:35"/>Pratling rather then Preaching, and Rebellion ra<g ref="char:EOLhyphen"/>ther then Religion, were moſt fitting for Gods Oracles.</p>
+            <p>Thus after ſometime, <hi>Eng<g ref="char:EOLhyphen"/>land</hi> whoſe hills were like <hi>Sion,</hi> valleys like <hi>Eden,</hi> was become a <hi>Golgotha,</hi> a place of skulls, a grave, <hi>O quam dira cano.</hi> Oh what ſad things do I relate.</p>
+            <p>The Sophiſtry he uſed to underſtand his company, and that none might eſcape him, was firſt to endeavor to find their conſcience in point of Al<g ref="char:EOLhyphen"/>legeance and Church Diſciplin, not valuing their tenents in point of Doctrin; for he hove<g ref="char:EOLhyphen"/>red ſeveral hereticks of all ſorts, t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ough blaſphemous or damnable; nay, his religion
+<pb n="38" facs="tcp:96733:36"/>conſiſted only of bloud and be<g ref="char:EOLhyphen"/>nefit. He would defend opini<g ref="char:EOLhyphen"/>ons contrary to his own fained hereſies, till he found them zealous in their aſſertions; if diſliked he would by threats, perſwaſions, large profers of pre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ments, ende<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vor to alie<g ref="char:EOLhyphen"/>nate their affections, and be<g ref="char:EOLhyphen"/>come his proſelytes; nothing therein to be done, more than to confound them in their judgements, and that either ſpeaking in the general (<hi>Schiſ<g ref="char:EOLhyphen"/>matici verſantur in univerſali<g ref="char:EOLhyphen"/>bus,</hi> Sc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſmaticks ſpeak al<g ref="char:EOLhyphen"/>waies in general termes) or new coined phraſes, or propo<g ref="char:EOLhyphen"/>ſing Gods glory to the end of his deſign.</p>
+            <p>Were he detected, he would deſtroy all by railings, deny<g ref="char:EOLhyphen"/>ing
+<pb n="39" facs="tcp:96733:36"/>his words, frien<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly pro<g ref="char:EOLhyphen"/>feſſings, mixt with jeer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs and appealing to God to wit<g ref="char:EOLhyphen"/>neſs the contrary.</p>
+            <p>Were you once his captive, he ſpares no m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nner of inſolen<g ref="char:EOLhyphen"/>cy to ſub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue you, ride you as an aſſe to your final ru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne: He minded neither good nor evil as he ought; for all the wiles of men could not engage him to promiſe any thing, neither would he in familiar conference or ſerious diſcourſe, ſpeak real<g ref="char:EOLhyphen"/>ly as he thoug<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t with himſelf; for that he had ſtudied to de<g ref="char:EOLhyphen"/>lude, and would almoſt con<g ref="char:EOLhyphen"/>found an <hi>Oed<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pus</hi> to unfold the riddle of his heart, being matchleſſe and boundleſſe here<g ref="char:EOLhyphen"/>in, until our meeting at the <hi>Old Baily.</hi>
+            </p>
+            <pb n="40" facs="tcp:96733:37"/>
+            <p> He thus armed <hi>Cap-à-pe</hi> with miſchievous reſolutions, and horrid principles, reſolv<g ref="char:EOLhyphen"/>ing to join himſelf unto <hi>Baal peor,</hi> and eat the ſacrifices of the dead, ſets himſelf to war; againſt whom? his God, his King, his Country, his Kind<g ref="char:EOLhyphen"/>red and his Conſcience, where <hi>Jehu</hi>-like, he ſatiates himſelf with blood.</p>
+            <p>But to regain the character of a well-affected and zealous Chriſti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, he joines himſelf un<g ref="char:EOLhyphen"/>to the Scotiſh intereſt, marches into <hi>Ireland</hi> with the Lord <hi>Forbiſh,</hi> where he leaves him engaged, and then for <hi>England</hi> with a packet of lies of his great ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fferings for Gods Cauſe and theirs, which in few years pro<g ref="char:EOLhyphen"/>ved an old cauſe, yet died in
+<pb n="41" facs="tcp:96733:37"/>its infancy, or ſwathing cloaths.</p>
+            <p>A Comical, ſcurrilous, ma<g ref="char:EOLhyphen"/>licious, oftentimes blaſphemous manner of Preaching and Pray<g ref="char:EOLhyphen"/>ing was frequently and publick<g ref="char:EOLhyphen"/>ly uſed, thereby to ſet out his name and zeal, that herds of ig<g ref="char:EOLhyphen"/>norant people might crowd to obſerve his inſolencies, though few can repeat one ſound ortho<g ref="char:EOLhyphen"/>dox Sermon of his, ſave that of his death, which preached good tidings to many people. As ſome for ſuch actions had no ears, ſo this Phariſee had many eares: He had one for the Independent, another for the Presbyterian; one for the the Anabaptiſt, another for the Atheiſt, but none for the Proteſtant, were the Image of
+<pb n="42" facs="tcp:96733:38"/>God never ſo well ſtamped in him; forſooth he was Kingly affected, and I am ſure the o<g ref="char:EOLhyphen"/>ther was knaviſhly.</p>
+            <p>Could you but ſympathize with him in d ſloyalty, you might eaſily eſpy him; for he and his complices tended all to one center, To deſt oy the King, the Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ernment, and Lawes, and ſet a Caſtle in the aire of thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> own bui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ding, un<g ref="char:EOLhyphen"/>der another <hi>John of Leyden,</hi> or <hi>Knipperdolling.</hi>
+            </p>
+            <p>To inſinuate himſelf into the favour of this Convention he would (<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fter he had <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſce<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>ed the temper of ſome ſelected ones) ſympathize with them in their diſpoſitions, languages and deſignes, until by his fawn<g ref="char:EOLhyphen"/>ings and religious phraſes, with
+<pb n="43" facs="tcp:96733:38"/>remorſeful exp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſsions he could deceive them, ſo as to r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n him amongſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and be a Licent at<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ride them like Aſſes.</p>
+            <p>For which cauſe h b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>comes their Poſt-p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ieſt, as w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll as their Di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty Jeſte at <hi>White<g ref="char:EOLhyphen"/>hall,</hi> and the Comm<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tee bords: only Mr. <hi>Peters</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is News were recked for authentick, and re<g ref="char:EOLhyphen"/>giſtred as Oracles, witneſſe the many Fiftie p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unds given him for this poſta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich made him often aver, <hi>That he had rather be ſupplan<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng in</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld England, <hi>then planting in</hi> New England.</p>
+            <p>The ſword brandiſhing a<g ref="char:EOLhyphen"/>broad, and the n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion begin<g ref="char:EOLhyphen"/>ning to ſmoak, its time for <hi>Hu<g ref="char:EOLhyphen"/>go</hi> to blow the fire, that he
+<pb n="44" facs="tcp:96733:39"/>might warm himſelf with the ſpoils of the Land; none ſo perſwaſive to engage in wars and blood as he; yet he was al<g ref="char:EOLhyphen"/>ways ſick at the time of fight<g ref="char:EOLhyphen"/>ing, for that cowardiſe is the fruit of a ſad Conſcience and a bad cauſe. Nay, he valiantly deſerted <hi>Eſſex,</hi> at his being im<g ref="char:EOLhyphen"/>paled in <hi>Cornwal,</hi> and told his Maſters at <hi>Weſtminſter</hi> a ramp<g ref="char:EOLhyphen"/>ing lye, and that <hi>gratis,</hi> That the Kings Forces were a terror to themſelves.</p>
+            <p>Two Obſtacles were grie<g ref="char:EOLhyphen"/>vous unto him, The Book of Common-Prayer, and Biſhops; for he would often quarrel at theſe without a cauſe, unleſs for that one maintained Order, and the other had queſtioned him for diſorder; <hi>Divide &amp; impe<g ref="char:EOLhyphen"/>ra.</hi>
+               <pb n="45" facs="tcp:96733:39"/>Divide and rule, was his Go<g ref="char:EOLhyphen"/>ſpel Rule untill he had brought all into confuſion; he could not ſet up his <hi>Babel,</hi> having ſowed the Darnel of liberty, by him<g ref="char:EOLhyphen"/>ſelf, and other his penny Go<g ref="char:EOLhyphen"/>ſpellers, that his tongue might go throughout the earth, <hi>Pſal.</hi> 73 9 He moves it to the Par<g ref="char:EOLhyphen"/>liament, that he might be their <hi>Mercury</hi> into <hi>Holland,</hi> for aſ<g ref="char:EOLhyphen"/>ſiſtance and counſel to under<g ref="char:EOLhyphen"/>prop their grand Deſign; their Preſident was his precept, <hi>ma<g ref="char:EOLhyphen"/>la locutio inficit animas,</hi> evill words corrupt good manners: Now of their merry Knave, he is their private Councellor, and to this end is diſpatcht a<g ref="char:EOLhyphen"/>way with much privacy; he deſiring the contentment of men, rather then God, of na<g ref="char:EOLhyphen"/>ture,
+<pb n="46" facs="tcp:96733:40"/>rather then grace; having cloathe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> himſelf with cruelty as w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th a ga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment, like another <hi>Mephiſtophilus</hi> returns with this Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>umetan reply; That <q>it would be good for them to ſeize the King, bring him to Juſti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, ſet him to death, and ſettle a Common-wealth a<g ref="char:EOLhyphen"/>mongſt them here in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> expecting to run through many difficulties as they had done.</q>
+            </p>
+            <p>This ſpark of Fire kindled pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ ntly amongſt the lig ter T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder, and a conſideration muſt be voted to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay the cha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge of this <hi>Hobſon,</hi> who che<g ref="char:EOLhyphen"/>riſhe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>earts <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y his meſ<g ref="char:EOLhyphen"/>ſage, for it proved we come ti<g ref="char:EOLhyphen"/>dings to many pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ple, eſpecially the 14 Tanners in <hi>Olivers</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ittle
+<pb n="47" facs="tcp:96733:40"/>ſucking Parliament that dyed in the birth: For that pur<g ref="char:EOLhyphen"/>poſe 300 <hi>
+                  <abbr>l.</abbr> per annum</hi> out of the Lord of <hi>Worceſters</hi> Lands, in the Woulds of <hi>Worceſter-ſhire,</hi> is appointed to be the lot of his inheritance; <hi>Mala par<g ref="char:EOLhyphen"/>ta malè dilabuntur bona,</hi> ill got<g ref="char:EOLhyphen"/>ten goods are ill ſpent; diſcoun<g ref="char:EOLhyphen"/>ting the 8000 pair of Holland ſheets which he zealouſly preac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed for in <hi>Holland,</hi> to make ſhuts for their Army of precious ones, and Saints in <hi>England,</hi> with the Butter, Shirts, Shooes, and Bacon, which he had cheated about <hi>Briſtol,</hi> to a conſiderable va<g ref="char:EOLhyphen"/>lue: <hi>dulcis odor lucri,</hi> O how ac<g ref="char:EOLhyphen"/>ceptab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e is gai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>! He love <hi>Dia<g ref="char:EOLhyphen"/>na</hi> as wel as a fair Nym<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, and to ſhew he is <hi>aliquis in omnibus,</hi>
+               <pb n="48" facs="tcp:96733:41"/>ſomething in all, he is in<g ref="char:EOLhyphen"/>comparatively a Sycophant to the prevailing part of the Armie, of which Sect ſoever, though firm to none, nothing coming amiſs ſave onely his wives Nurſe for aliment Mo<g ref="char:EOLhyphen"/>nies to ſupport her in the Bed<g ref="char:EOLhyphen"/>lam he built for her neer <hi>Mar<g ref="char:EOLhyphen"/>row-bone</hi> Park. Should any ſhadow of peace appear, he had his inferiour order of Angels, <hi>Love, Dell, Marſhal, Market<g ref="char:EOLhyphen"/>man,</hi> who by prating, preach<g ref="char:EOLhyphen"/>ing and rayling ſhould obſtruct it, and that ſhall be backed by him with falſe ſcandals, treaſo<g ref="char:EOLhyphen"/>nable ſurmiſes againſt King, Queen, and Princes; Religi<g ref="char:EOLhyphen"/>on muſt be made a Noſe of Wax, ſound Doctrine held for Popery, and all Order termed
+<pb n="49" facs="tcp:96733:41"/>as Antichriſtian; when we know that Order is the good of every creature; nay, there is an Order in Hell, for <hi>Beel<g ref="char:EOLhyphen"/>zebub</hi> is called the Prince of Devils; ſo that they are worſe then Devils that will have no Prince; Such was this Trai<g ref="char:EOLhyphen"/>tor, who gloried in the Pallace-Yard, during the Uſurpation of the Committee of Safety; ſaying, <hi>Can we but keep up our Armie, the line of the</hi> Stuarts <hi>ſhall never rule here more, nei<g ref="char:EOLhyphen"/>ther ſhall we need to fear yong</hi> C. S. <hi>or any King to rule over us.</hi> Nay, to extenuate his guilt in the judgement of the ſordid Vulgar, he aſperſes the King and Royal Progenie, and bedirt their tranſcendent honour, by raiſing ſuch rumors
+<pb n="50" facs="tcp:96733:42"/>of them as no modeſt tongue dares utter, nor loyal heart be<g ref="char:EOLhyphen"/>lieve. <hi>Parentum mores non ſunt arguendi,</hi> we are not to diſ<g ref="char:EOLhyphen"/>pute the conditions of our pa<g ref="char:EOLhyphen"/>rents.</p>
+            <p>The Princely Iſſue muſt be deſigned for Apprentiſhips, and to be fed like children.</p>
+            <p>Nay, his advice to his Con<g ref="char:EOLhyphen"/>federates was to work their impriſonment, and then he con<g ref="char:EOLhyphen"/>ceits that he by his preaching could animate the Armie to prepare ſlaughter for the Kings children; witneſs his Invective at S. <hi>Margarets</hi> in <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter.</hi>
+            </p>
+            <p>But <hi>Eſſex</hi> his Honour be<g ref="char:EOLhyphen"/>ing laid in the duſt, and <hi>Fair<g ref="char:EOLhyphen"/>fax</hi> (as he conceits) remaining the next man to the Crown,
+<pb n="51" facs="tcp:96733:42"/>though God had preſerved the Royal ſeed for his own gar<g ref="char:EOLhyphen"/>den, he becomes his <hi>Achito<g ref="char:EOLhyphen"/>phel,</hi> then liſts himſelf Chap<g ref="char:EOLhyphen"/>lain in pay to ſix Regiments, which he continued for ſeveral years: <hi>Harriſon</hi> and the reſt of the Collonels being his Surro<g ref="char:EOLhyphen"/>gates or Officials, whileſt he officiated as their Vicar Gene<g ref="char:EOLhyphen"/>ral.</p>
+            <p>This Scene drawing towards an end, the Trumpets ſound in <hi>Oliver</hi> the Actor, <hi>Ireton</hi> the Scribe, <hi>Harriſon</hi> the Prolecu<g ref="char:EOLhyphen"/>tor, <hi>Cradock</hi> the Fool, <hi>Vavaſor Powel</hi> the Poſt-prieſt, <hi>Desbo<g ref="char:EOLhyphen"/>row</hi> the Clown, <hi>Jones</hi> the Sy<g ref="char:EOLhyphen"/>cophant, <hi>Pride</hi> the Devil, <hi>Whaley</hi> the Turkie Merchant, and <hi>Peters</hi> the Pander.</p>
+            <p>When after ſome pauſe in
+<pb n="52" facs="tcp:96733:43"/>the government, <hi>Oliver</hi> like <hi>cauda Draconis,</hi> the Dragons tail, ariſing in our Horizon with ſtinking vapours which did corrupt the ſpirits of many; for <hi>qualis aer, talis ſpiritus,</hi> as is the air, ſuch is the temper of the ſpirit; looks ſmiling on this pimp <hi>Peters,</hi> who had pimped for him many years, avowing him to be aſecond <hi>Moſes,</hi> &amp; one walk<g ref="char:EOLhyphen"/>ing as cloſe to God as ever <hi>Joſhua</hi> did: Nay, <hi>Oliver</hi> obſerving his temper to be unchangeable, and that he continued religiouſly villanous, popular, active, impu<g ref="char:EOLhyphen"/>dent, and an abyſs of Trea<g ref="char:EOLhyphen"/>ſons, doth ſympathize with him, till at laſt they become to be both of one heart, one ſoul, one minde, and one voice; onely whilſt Monies are to be
+<pb n="53" facs="tcp:96733:43"/>disburſed for Medalls for the Officers of the Army (as Prog<g ref="char:EOLhyphen"/>noſticks, or Favourers of <hi>Fair<g ref="char:EOLhyphen"/>fax</hi> his dying power) he ſol<g ref="char:EOLhyphen"/>licites to be principal in the disburſment, and thereby gains opinion of the Officers, and neer 1500 <abbr>
+                  <hi>l.</hi>
+               </abbr> for himſelf: For as he ſpared no Woman in his luſt, (witneſs the Baſtard he had by his Neece at Maſter <hi>Ba<g ref="char:EOLhyphen"/>kers</hi> Houſe in the Strand) ſo he being as mercenary, as miſchie<g ref="char:EOLhyphen"/>vous, ſerved no man without a conſiderable gain, though he was reall to none but himſelf, yet failed in that at laſt.</p>
+            <p>
+               <hi>Fairfax</hi> now becomming a dry Nurſe, <hi>Peters</hi> is adopted a Foſter child to <hi>Oliver,</hi> whoſe ſoul thirſted for the ſame blood ever ſince his eldeſt Son was
+<pb n="54" facs="tcp:96733:44"/>hanged at Tyborn for mur<g ref="char:EOLhyphen"/>ther.</p>
+            <p>The King diſcomfited and his Hoſt all diſperſed, and he taking the Scotiſh Army for an Aſylum; this High Prieſt endoctrinates that Samaritan <hi>Fairfax,</hi> to buy the King at a price from that <hi>Judas, Leſley;</hi> which ſounded well in the Commons Houſe, and then the bargain was ſtrucken, and the purchaſers engaging to make him a glorious King. And ſo they did, for he died a Martyr, ſigning the truth of his De<g ref="char:EOLhyphen"/>claration for the Proteſtant Religion with a full effuſion of is Royal blood, purchaſing his Subjects liberty by his of<g ref="char:EOLhyphen"/>ten impriſonments; and vin<g ref="char:EOLhyphen"/>dicating the rites and privi<g ref="char:EOLhyphen"/>ledges
+<pb n="55" facs="tcp:96733:44"/>of his free Parliaments according to the fundamental Laws of this Nation; he pa<g ref="char:EOLhyphen"/>tiently and piouſly undergoing the ſtroke of death: thereby atteſting <hi>in facie coeli,</hi> before the eye of Heave, to the glory of God, his Subjects honour, and his enemies ter<g ref="char:EOLhyphen"/>rour, that as he loved his Sub<g ref="char:EOLhyphen"/>jects, ſo he died for their ſakes.</p>
+            <p>But though the Parliament pay the monies, the Soldiers keep poſſeſſion, and conduct him to <hi>Merods</hi>-Hall, <hi>Holmby</hi>-Houſe where <hi>Peters</hi> like a High Prieſt of theſe Jewes muſt con<g ref="char:EOLhyphen"/>fer with him to find what evil he had in him; and though he found him fraught with honour and conſcience, yet his Iſma<g ref="char:EOLhyphen"/>elitiſh
+<pb n="56" facs="tcp:96733:45"/>tongue muſt bedirt him; for that he had not the art of ſpeaking truth, being ſo long converſant in that of lying and traducing, and therefore reports the King to be neither for worth or education worthy the office of a Juſtice of peace; though Heaven and earth could give him the lye for his pains: Nay his fellow traytor <hi>Marſhall</hi> did ſo admire his wiſ<g ref="char:EOLhyphen"/>dom at the conference in <hi>Careſ<g ref="char:EOLhyphen"/>brook</hi> Caſtle, that he did open<g ref="char:EOLhyphen"/>ly declare, he ſpake beyond all men that ever he heard ſpeak, both for learning politick, di<g ref="char:EOLhyphen"/>vine, and moral.</p>
+            <p>See the dangers and conſe<g ref="char:EOLhyphen"/>quences of Rebellion: when the Subject ſhall inſult over Gods anointed, then ribaldry
+<pb n="57" facs="tcp:96733:45"/>ſhall be accounted government: and God muſt with long ſuffer<g ref="char:EOLhyphen"/>ing bear their inſolence, which hath neither bound for time, perſon, nor rule, nor religion, wiſdom, or juſtice in it. How<g ref="char:EOLhyphen"/>ever maugre all former Oathes, Proteſtations, Declarations and Covenants ſet up in Churches, to witneſs their intentions of Kingly government, and yield<g ref="char:EOLhyphen"/>ing obedience to the lawes of the land, as if they were in<g ref="char:EOLhyphen"/>tended to outface God, or make a mock of him; the Jew<g ref="char:EOLhyphen"/>iſh part of the Army are prompted by <hi>Oliver</hi> and <hi>Peters</hi> to ſteal away the King from thoſe that were but initiating Phariſees, and tottering in judgment and Loyalty, though ſome were inſtigated to deſtroy
+<pb n="58" facs="tcp:96733:46"/>him privately. <hi>Ponit home, diſponit Deus;</hi> Though <hi>Haman</hi> man inſult over <hi>Mordecai,</hi> that intercedes for his people, yet may he be hanged for his labo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: <hi>Caveto.</hi> Though rebellion make a man happy for a ſeaſon, it ends in infamy. <hi>Oliver, Ireton, Peters, &amp;c.</hi> were famous rogues; yet lie and die diſgracefully: <hi>Sic pereat Barrabas,</hi> ſo let thine enemies periſh O God.</p>
+            <p>The riot committed againſt the Kings perſon, andhe pri<g ref="char:EOLhyphen"/>vately hurried away by this giddy-headed multitude of re<g ref="char:EOLhyphen"/>bellious Saints; the Parlia<g ref="char:EOLhyphen"/>ment claims an intereſt in him, being theirs by a right of pur<g ref="char:EOLhyphen"/>chaſe: and finding <hi>Oliver</hi> and <hi>Peters</hi> the grand and prime <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ug<g ref="char:EOLhyphen"/>geſtors of this unparallel'd con<g ref="char:EOLhyphen"/>ſpiracy
+<pb n="59" facs="tcp:96733:46"/>intended to arreſt and attaint them; but the knaviſh part of the Houſe giving no<g ref="char:EOLhyphen"/>tice thereof, like a <hi>Gemini</hi> of Traytors, they prepare them<g ref="char:EOLhyphen"/>ſelves for an eſcape to <hi>Cam<g ref="char:EOLhyphen"/>bridg,</hi> but the weather proving hot, after hard riding, they halted about <hi>Ware</hi> in <hi>Middle<g ref="char:EOLhyphen"/>ſex,</hi> and entred into Counſel how to ſettle the Nation in peace; and in fine concluded that there was no way left for this, but to take the King and bring him to Juſtice, try him for his life, and cut off his head. <hi>Hinc illae lachrymae!</hi>
+            </p>
+            <p>To this the whineing Saint <hi>Harriſon,</hi> and the reſt of the quodled or perboyled Chriſti<g ref="char:EOLhyphen"/>ans the Anabaptiſts ſay, <hi>Amen.</hi>
+            </p>
+            <p>Then muſt his ſacred perſon
+<pb n="60" facs="tcp:96733:47"/>be tranſplanted from place to place, from <hi>Holmby</hi> to <hi>Sion</hi>-houſe, where <hi>Peters</hi> and <hi>Dell</hi> conſpire to piſtol the King pri<g ref="char:EOLhyphen"/>vately, but were detected; and by their impudent denying it, were enlarged thence to <hi>Wind<g ref="char:EOLhyphen"/>ſor</hi> Caſtle; where he by his piety and patience, did ſo ag<g ref="char:EOLhyphen"/>grevate the malice of his ene<g ref="char:EOLhyphen"/>mies, <hi>Oliver, Ireton</hi> and <hi>Peters;</hi> that they held ſeveral private conſultations at Mr. <hi>Starkyes</hi> houſe in <hi>Windſor,</hi> and <hi>Colman<g ref="char:EOLhyphen"/>ſtreet</hi> in <hi>London</hi> at a private houſe; there to contrive an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> act their treaſonable murther; the reſolve paſt he muſt be conveyed from thence to <hi>Hampton</hi>-Court, <hi>Harriſon</hi> riding with him and upbraiding him to his face; but <hi>Peters</hi> ri<g ref="char:EOLhyphen"/>ding
+<pb n="61" facs="tcp:96733:47"/>before him out of the Ca<g ref="char:EOLhyphen"/>ſtle, cried, <hi>Weell whisk him, weel whisk him, now we have him:</hi> A patern of loyalty, one formerly a Captain for the Kings intereſt ſeizing <hi>Peters</hi> his bridle, ſaid, <hi>Good Mr.</hi> Peters, <hi>what will you do with the King? I hope you will do his perſon no harm;</hi> that <hi>Peters</hi> might be <hi>Peters,</hi> he replyed, <hi>He ſhall die the death of a Traytor, were there never a man in</hi> England <hi>but he.</hi> But if the innocent muſt ſuffer, I pray you what would have be<g ref="char:EOLhyphen"/>come of <hi>Peters</hi> then, who was ſo <hi>ore, opere &amp; corde?</hi>
+            </p>
+            <p>The Captain forced to looſe his hold of the reins by a blow given him over his hand with <hi>Peters</hi> his Staff; this trumpeter of ſorrow rides on
+<pb n="62" facs="tcp:96733:48"/>ſinging his ſad note, <hi>Weel whisk him I warrant you now we have him.</hi>
+            </p>
+            <p>From <hi>Hampton</hi>-Court he is deluded to paſs the River, upon aſſurance of a Guard to reſcue him; but thence he was vio<g ref="char:EOLhyphen"/>lently carried to <hi>Carisbrook</hi>-Caſtle in the Iſle of <hi>Wight,</hi> where many overtures of peace were there propoſed unto him, but miſchief or murder was the end of it: for their envy grow<g ref="char:EOLhyphen"/>ing to a full ripeneſs, nothing remains unattempted to ſhew the r contempt of him. There Martial muſt diſcourſe with him, and all proved but a quible; <hi>Scientia nullum habet inimicum praeter ignorantem,</hi> Learning is envied of none but the ſordid ignorant. Yea, a
+<pb n="63" facs="tcp:96733:48"/>Private Soldier is by <hi>Peters</hi> a<g ref="char:EOLhyphen"/>nimated to ſeize the Kings breeches which lay on him in his bed, and to take thence a book out of his pocket, where<g ref="char:EOLhyphen"/>in was a Liſt of his beſt and loyaleſt friends in <hi>England:</hi> this was done notwithſtanding the King held it faſt and ear<g ref="char:EOLhyphen"/>neſtly importuned the Souldier to forbear proſecuting his wick<g ref="char:EOLhyphen"/>ed Treaſon; but he perſiſted to contend with the King until he had recovered it, not daring to offend Mr. <hi>Peters,</hi> who af<g ref="char:EOLhyphen"/>terward had him rewarded with an Officers place in the Army; for the worſt Traytor was the beſt ſubject; the verieſt fiend their trueſt friend; and to be at enmity with the King, was to be at peace with them.</p>
+            <pb n="64" facs="tcp:96733:49"/>
+            <p> The head thus perplext and in imminent danger, becauſe <hi>Peters</hi> ſollicited to expedite his tryal, the body could do no leſs than ſympathize with him in ſorrow; and though the juſt and legal government of this Nation ſeemed to be in a dying condition, the members there<g ref="char:EOLhyphen"/>of give one groane more for their redemption, and by aſ<g ref="char:EOLhyphen"/>ſuming armes to reſcue their natural Prince from this u<g ref="char:EOLhyphen"/>ſurped power, or redeem him from the jawes of theſe Lyons, by taking armes they ſet a ſtand to their bloudy de<g ref="char:EOLhyphen"/>ſign, untill by a fatal blow they were enforced to ſilence, and to repine at his, and their un<g ref="char:EOLhyphen"/>parallel'd ſubjction; the na<g ref="char:EOLhyphen"/>tion thus ſhewing they had
+<pb n="65" facs="tcp:96733:49"/>ſome liſe of loyalty yet leſt; <hi>Peters</hi> prepares for an eſcape to the Weſtern Iſlands; but a calm appearing he ſhrouds himſelf under his old Bramble, <hi>Oliver,</hi> to p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otect him, and down he goes with him to <hi>Wales,</hi> where he left another Monument of his cruelty; for there one Lieutenant <hi>Bartlet,</hi> the onely ſurviving Son of Doctor <hi>Bartlet</hi> before men io<g ref="char:EOLhyphen"/>ned, being Lieutenant to Co<g ref="char:EOLhyphen"/>lonel <hi>Powels</hi> Companie of Foot, and taken Priſoner at that unbappy overthrow of the Welſhmen at S. <hi>Fagans</hi> in <hi>Glamorganſhire,</hi> made his Addreſs to <hi>Peters,</hi> preſum<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng that he might receive civilities from him out of their former acquaintance at <hi>Rotterdam;</hi> and
+<pb n="66" facs="tcp:96733:50"/>there as a pious and penitent Chriſtian, makes <hi>Peters</hi> his confeſſor, and gives him the account of his life ſpent, deſi<g ref="char:EOLhyphen"/>ring Mr. <hi>Peters</hi> to pray with him to his God, and to inter<g ref="char:EOLhyphen"/>cede to <hi>Oliver</hi> for his life, which <hi>Hugo</hi> promiſed to do; but re<g ref="char:EOLhyphen"/>turning to <hi>Oliver,</hi> told him, he had left the yong man in a good condition, for he had re<g ref="char:EOLhyphen"/>conciled his ſoul to God, and therefore it would be accepta<g ref="char:EOLhyphen"/>ble and well-pleaſing to ſend him to the Lord now that he was ready for him; then forth<g ref="char:EOLhyphen"/>with he was ſhot to death.</p>
+            <p>Thus did he alſo with Duke <hi>Hamilton</hi> who rendred himſelf a Priſoner unto <hi>Peters,</hi> and aſ<g ref="char:EOLhyphen"/>ſigned him all his Jewels, <hi>&amp;c.</hi> upon condition of life, which
+<pb n="67" facs="tcp:96733:50"/>promiſed, and the goods poſ<g ref="char:EOLhyphen"/>ſeſſed, he delivered him over to the <hi>Martial</hi> power to be put to death, and ſollicited for it.</p>
+            <p>This ſtorm ended, on they go victoriouſly, encouraging themſelves in their bloody re<g ref="char:EOLhyphen"/>ſolutions, and haſten the King for <hi>Whitehall:</hi> Onely this by the way; the Souldiers were ſe<g ref="char:EOLhyphen"/>cretly admoniſhed by Letters from <hi>Peters</hi> to exerciſe his ad<g ref="char:EOLhyphen"/>mired patience, by upbraiding him to his face, and ſo it was; for having gotten him on board of their Boat to tranſ<g ref="char:EOLhyphen"/>port him, they would not afford him a Cuſhion to ſit upon; nay, ſcarcely the company of his own Spaniel, but ſcoffed at him moſt vilely, as if to blaſpheme
+<pb n="68" facs="tcp:96733:51"/>the King, were not to blaſ<g ref="char:EOLhyphen"/>pheme God, who had eſtabliſh<g ref="char:EOLhyphen"/>ed him to be his Vicegerent, our ſupream Moderator, and a faithful <hi>cuſtos duarum tabu<g ref="char:EOLhyphen"/>larum legum,</hi> keeper o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> both Tables of the Law.</p>
+            <p>He being ſafely arrived at <hi>Whitehal,</hi> that they might the eaſier reach the Crown, they do with pi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us pretences, ſecon<g ref="char:EOLhyphen"/>ded with fears of declining, hoodwink their General <hi>Fair<g ref="char:EOLhyphen"/>fax</hi> to condeſcend to this bloodie Sacrifice; whereas <hi>O<g ref="char:EOLhyphen"/>liver</hi> and <hi>Ireton,</hi> would appear only to be his Admirers and Spectators of the Regicide, by ſtanding in a window at <hi>White<g ref="char:EOLhyphen"/>hall,</hi> within view of the Scaf<g ref="char:EOLhyphen"/>fold and the People; whileſt <hi>Peters</hi> fearing a Tumult, diſ<g ref="char:EOLhyphen"/>ſembles
+<pb n="69" facs="tcp:96733:51"/>himſelf ſick at Saint <hi>Jameſes,</hi> conceiting that he might thereby plead <hi>not guil<g ref="char:EOLhyphen"/>ty,</hi> though no man was more forward then he to encourage Col. <hi>Axtel</hi> in this action, and to animate his Regiment to cry for Juſtice againſt the Traitor, (for ſo he moſtly called the King) yea, with what triumphing in<g ref="char:EOLhyphen"/>ſolence did he ſettle the chair of Fate for the King to ſit in at his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ryal before the Court of High Injuſtice, thereby to ſatiate his thirſtings after the innocent blood of him who like a Lamb yeelded to the ſlaughter.</p>
+            <p>This Tragedy ended, <hi>Fair<g ref="char:EOLhyphen"/>fax</hi> muſt be cheated of his Command, and <hi>Oliver, volen<g ref="char:EOLhyphen"/>ter, nolenter,</hi> enforced to accept
+<pb n="70" facs="tcp:96733:52"/>of the Triple Crown and Go<g ref="char:EOLhyphen"/>vernment of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> Religion, Law, Militia, Parliament, Prieſts, and People: Thus <hi>Exit Fair<g ref="char:EOLhyphen"/>fax;</hi> and enter <hi>Oliver</hi> with <hi>Pe<g ref="char:EOLhyphen"/>ters</hi> his pimping Prieſt, who had propheſied unto him thoſe things, and therefore is reward<g ref="char:EOLhyphen"/>ed by becoming Clerk to his Cabinet Councils or Cabals; Nay, this notorious Publican cannot ask beyond his merit, though it be the final <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uine of that Church to which he ſtood ſworn in his Ordination, or of a Judge in the Prerogative Cou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, to be a Licenſer, or ſtand impow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed irreſiſtibly to beat down all ſound Doctrine, Diſcipline and Order, and in<g ref="char:EOLhyphen"/>troduce all Hereſies, Schiſms,
+<pb n="71" facs="tcp:96733:52"/>and carnal villanies into this National Church.</p>
+            <p>That as he had enraged them to exciſe the head, ſo he might encourage them to per<g ref="char:EOLhyphen"/>plex the members; and to this end ſtrikes at the ſoul of the Church (the Clergy) for that there was no more plunder left in <hi>England,</hi> and his bag not full, and his deſires that were inſatiable as Hell, never crying enough, but a <hi>quid da<g ref="char:EOLhyphen"/>bitis,</hi> he reſolves to live by Sacriledg, and for his aſſi<g ref="char:EOLhyphen"/>ſtant calls to him <hi>Harriſon</hi> that undiſcernable propagator of the <hi>Nigrum Evangelii,</hi> the black Goſpel: ſo that <hi>Oliver</hi> now contents himſelf with being their Solliciter; thus under<g ref="char:EOLhyphen"/>taking a ſpiritual warfarel, he
+<pb n="72" facs="tcp:96733:53"/>from a Proteſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt to an Inde<g ref="char:EOLhyphen"/>pendant, and thence to a Presbyterian, laſtly falls into apoſtacy; conceiving with <hi>Ju<g ref="char:EOLhyphen"/>lian</hi> the beſt way to extinguiſh Religion, was to extirpate the Clergy, and that by ſequeſtring their Tythes and profits, ſi<g ref="char:EOLhyphen"/>lencing and impriſoning them, and ſo bring all into an inevi<g ref="char:EOLhyphen"/>table ignorance, and then to ſow amongſt them the darnel of hereſie and ſchiſm as they had formerly ſown the tares of ſedition, of which much re<g ref="char:EOLhyphen"/>mains yet unweeded out a<g ref="char:EOLhyphen"/>mongſt us; <hi>proh dolor!</hi>
+            </p>
+            <p>But that they might exceed all Rebbels of former and fu<g ref="char:EOLhyphen"/>tu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ages, to fill up their vio<g ref="char:EOLhyphen"/>lence and cup with blood, they ſatiate themſelves with the
+<pb n="73" facs="tcp:96733:53"/>blood of the <hi>Engliſh, Iriſh,</hi> and at <hi>Droghedah</hi> and <hi>Waxford,</hi> drink a deadly draught, leaving there ſuch monuments of cru<g ref="char:EOLhyphen"/>elty, that ſucceeding ages will be hardly induced to believe that men ſhould become ſo wolviſh, as they were in thoſe actions.</p>
+            <p>For at <hi>Droghedah</hi> they in<g ref="char:EOLhyphen"/>humanely maſſacred both men, women and children, three dayes after the ſeiſure of the Town, though they were one<g ref="char:EOLhyphen"/>ly innnocents that had ſecured themſelves in the Gatehouſe or Steeples, meerly to preſerve them from the unmercifull u<g ref="char:EOLhyphen"/>ſage of Souldiers, frequently practiſed u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on all ſtorms of Cities or Forts, and heat of blood; conceiving that Eng<g ref="char:EOLhyphen"/>liſh
+<pb n="74" facs="tcp:96733:54"/>men would not forget the ancient honour of being mer<g ref="char:EOLhyphen"/>cifull, which for many years hath attended that heroick Na<g ref="char:EOLhyphen"/>tion; but being led by one who was inſatiably thirſty for blood, and they, theſe ſpecta<g ref="char:EOLhyphen"/>cles of pity, enforced by fa<g ref="char:EOLhyphen"/>mine to appear in the ſtreets even in a peaceable manner; all relations for Countreys ſake, Religion and Honour, was laid aſide, and theſe famiſh<g ref="char:EOLhyphen"/>ed Proteſtants were maſſacred in the Streets, their Childrens brains beaten out before the Parents faces, and then them<g ref="char:EOLhyphen"/>ſelves enforced to undergo that cruelty.</p>
+            <p>Nay at <hi>Waxford</hi> having been thus entred into a merci<g ref="char:EOLhyphen"/>leſs cruelty, they do expedite
+<pb n="75" facs="tcp:96733:54"/>their tyranny there; for ha<g ref="char:EOLhyphen"/>ving entred the town, they drove both men, women and children into the River, whoſe dead bodies lay ſo in heaps therein, that it did in a great meaſure ſtop the courſe of the River, and a paſſage might ea<g ref="char:EOLhyphen"/>ſily be made from the Key to the otherſide of the River, the dead lay ſo numerous intomb<g ref="char:EOLhyphen"/>ed in that River, as it was vauntingly related unto me by this <hi>Peters</hi> himſelf, ſeveral o<g ref="char:EOLhyphen"/>thers of credit partaking of the Hiſtory.</p>
+            <p>But <hi>Peters</hi> becoming rich with the plunder at <hi>Waxford,</hi> and affrighted with guilt, pro<g ref="char:EOLhyphen"/>cures a command from <hi>Oliver,</hi> and is commiſſionated a Colo<g ref="char:EOLhyphen"/>nel; he undertaking to raiſe a
+<pb n="76" facs="tcp:96733:55"/>Regiment of foot, which muſt be ſold over to their aſſiſtance in <hi>Ireland;</hi> and thus clothed with miſchief, he comes for <hi>Mil<g ref="char:EOLhyphen"/>ford</hi> Haven in <hi>Wales,</hi> ſick, as in mind, ſo in body; but that was ſpeedily cured, the other never.</p>
+            <p>For being ſickly, he was by one Captain <hi>Brandy</hi> quartered at my houſe: 1. For that I was the only Phyſician known to him to reſide in that Coun<g ref="char:EOLhyphen"/>ty. 2. For the continguity of my houſe, it being neer the River: and thus we firſt be<g ref="char:EOLhyphen"/>came acquainted. After his cure was finiſhed, he remained there with his ſervants and hor<g ref="char:EOLhyphen"/>ſes for ten weeks, all upon free quarter; during which time, I had ſo endeered my ſelf unto
+<pb n="77" facs="tcp:96733:55"/>him, that I could unlock the cloſet of his heart at pleaſure, and by that means became ſo far his Confeſſor, that he did three ſeveral times ſome weeks diſtant, very ſoberly acknow<g ref="char:EOLhyphen"/>ledg to me the manner of con<g ref="char:EOLhyphen"/>triving his late Majeſties death, with many other ſad relations of their wicked proceedings a<g ref="char:EOLhyphen"/>gainſt him: nay he was ſo far from concealing this treaſona<g ref="char:EOLhyphen"/>ble conſpiracy, that he would relate it me whenſoever I did ask it of him; which made me tremble at the old Bayly to hear him <hi>in facie curiae,</hi> in open Court, and in the preſence of the Almighty to deny it, onely ſlubbering over his ſin, ſaying ſuch expreſſions might fall from him in his infirmity; whether
+<pb n="78" facs="tcp:96733:56"/>he meant his fits of madneſs, or fits of a troubled conſcience, I know not; but do believe, and that upon good grounds, it was rather in thoſe of his conſcience, than the former.</p>
+            <p>After his raiſing three com<g ref="char:EOLhyphen"/>panies and tranſporting them over to ſale, he begins to ob<g ref="char:EOLhyphen"/>ſerve the temper of that peo<g ref="char:EOLhyphen"/>ple; and finding many of them, eſpecially the Gentry, through cowardice and want of ſound principling in Religion, much inclining to a temporiſing, and the Clergy divided amongſt themſelves, though they were privately admoniſhed then, of the imminent danger which was indeed againſt them; he there grew inſolent, taking advan<g ref="char:EOLhyphen"/>tage of their diviſion; he calls
+<pb n="79" facs="tcp:96733:56"/>to his aſſiſtance one <hi>Samſon Lort</hi> of that County Eſquire, who was in his actions a ſe<g ref="char:EOLhyphen"/>cond <hi>Pontius Pilate,</hi> delighting in cruelty, and cloaking all with a pretence of love, religion and innocence.</p>
+            <p>This Second of his, ſo tym<g ref="char:EOLhyphen"/>panizing with pride, that he was imployed by ſo great a Favorite as <hi>Peters,</hi> was prom<g ref="char:EOLhyphen"/>pted by him, and would regard no Law, but act according to what he thought acceptable to <hi>Peters;</hi> witneſs his Warrants iſſued out to ſearch for and at<g ref="char:EOLhyphen"/>tach the body of <hi>Charles Stuart,</hi> (for ſo he called his Majeſty that now is) and to bring him before him to be dealth with ac<g ref="char:EOLhyphen"/>cording to Juſtice; and his Motto in his Colours, <hi>No King,
+<pb n="80" facs="tcp:96733:57"/>no Lords, we are engaged.</hi>
+            </p>
+            <p>But <hi>Olivers</hi> wife drawing Articles againſt <hi>Peters,</hi> and in<g ref="char:EOLhyphen"/>tending to exhibit them, for his long ſtay in that Coun<g ref="char:EOLhyphen"/>try, and le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ving her Husband in danger in <hi>Ireland: Peters</hi> up<g ref="char:EOLhyphen"/>on notice given, doth with the aſſiſtance of his fellow Tyrant <hi>Lorte,</hi> contrive a way to ſettle a Congregational Church of their own invention, and that it might ſpread further there, calls into them one <hi>Philip Jones</hi> of <hi>Swanſey,</hi> that called himſelf Collonel <hi>Jones; quo warranto,</hi> I have heard.</p>
+            <p>A Letter from this <hi>Jones</hi> was directed to <hi>Peters,</hi> deſiring him, in his own, and <hi>Cradocks</hi> Name to leave his advice how to drive on that great deſign
+<pb n="81" facs="tcp:96733:57"/>of propagating the Goſpel in <hi>Wales.</hi>
+            </p>
+            <p>To which <hi>Peters</hi> replyed, They muſt Sequeſter all Mi<g ref="char:EOLhyphen"/>niſters without acception, and bring the Revenues of the Church into one publike Trea<g ref="char:EOLhyphen"/>ſury, out of which muſt be allowed one hundred a year to ſix Itinerant Miniſters to be ſelected to preach in every County: What with the fear of his being queſtioned, and of the Plague then increaſing in that County: as alſo having engaged theſe two Sticklers to drive on their Antichriſti<g ref="char:EOLhyphen"/>aniſm, fitted himſelf with a pious Plea for his delay; <hi>Viz.</hi> To ſettle Religion there: He haſtens to <hi>London;</hi> yet could not bauk <hi>Briſtol,</hi> but muſt viſit and ſtrengthen the Saints
+<pb n="82" facs="tcp:96733:58"/>there, telling them out of the Pulpit, that he had been a<g ref="char:EOLhyphen"/>mongſt the Heathen Welſh<g ref="char:EOLhyphen"/>men, and found them fit for nothing, but to make Clap<g ref="char:EOLhyphen"/>pers for wooden Bells (mean<g ref="char:EOLhyphen"/>ing the Gallows) then tells them a Storie of <hi>Puſs</hi> in her Majeſtie, and ſo leaves them.</p>
+            <p>
+               <hi>Oliver</hi> arrived at <hi>London;</hi> he ſollicites for impowring his two Truſtees, <hi>Lort</hi> and <hi>Jones,</hi> with many others of the ſame Feather, and that by an Ordi<g ref="char:EOLhyphen"/>nance of Parliament, to drive on their miraculous propaga<g ref="char:EOLhyphen"/>tion of the Goſpel, who like two Champions inſultingly ſtrive to out-vie one another; <hi>Aſpe<g ref="char:EOLhyphen"/>rius nihil eſt miſero ſi ſurgit in altum,</hi> Set a Peaſant on Horſe<g ref="char:EOLhyphen"/>back, and he will ride to, <hi>&amp;c.</hi> bringing their poor Country<g ref="char:EOLhyphen"/>men
+<pb n="83" facs="tcp:96733:58"/>to that low Ebb, that many could be ſatisfied with a morſel of Tithe Cheeſe.</p>
+            <p>And thus muſt <hi>Wales</hi> drink off the cup of her confuſion, though it was ſugared with zealous pretences, and poyſon<g ref="char:EOLhyphen"/>ed with Hereſies and Schiſms; ſhe muſt be rendred as Hea<g ref="char:EOLhyphen"/>theniſh, and theſe called Pro<g ref="char:EOLhyphen"/>pagators of the Goſple; but to drive on the Trade of Tythe gathering, they ſet good bar<g ref="char:EOLhyphen"/>gains to their Adherents, and hire Beggars with ſuch like, to obſerve the actions of the Cler<g ref="char:EOLhyphen"/>gie, allowing ſome eighteen pence a day for their good ſer<g ref="char:EOLhyphen"/>vice, and all to be deducted out of the Revenues of the Church; the Miniſters almoſt extirpated, and ſcarce a Ser<g ref="char:EOLhyphen"/>mon heard in ſixty miles; <hi>Je<g ref="char:EOLhyphen"/>roboam</hi>
+               <pb n="84" facs="tcp:96733:59"/>like, thinking the worſt of people good enough for the Lords ſervice, they fill the vacancies with Cooks, Ranters, Taylors, Weavers, Shoomakers, Feltmakers, Stocking menders, Millers, Gingerbread-makers, Collar<g ref="char:EOLhyphen"/>makers, Carpenters, and Cheeſ<g ref="char:EOLhyphen"/>vatmakers; onely one Acade<g ref="char:EOLhyphen"/>mick, whoſe Name was <hi>Ste<g ref="char:EOLhyphen"/>phen Young,</hi> for that he bare a Partiſan to guard the Scaf<g ref="char:EOLhyphen"/>fold, at the Martyrizing of our gracious King, and was an adopted Son to <hi>Peters,</hi> always calling him Father.</p>
+            <p>Theſe muſt be content with ſuch pittances as are allowed them by the propagators, ra<g ref="char:EOLhyphen"/>ther playing at ſmall game than ſit out; and their Tenants or Sycophants become Farmers,
+<pb n="85" facs="tcp:96733:59"/>though ſome of the propaga<g ref="char:EOLhyphen"/>tos lick their fingers, and car<g ref="char:EOLhyphen"/>ry away the ſweetneſs of the profirt, raiſing their poor for<g ref="char:EOLhyphen"/>tunes thereby unto a conſide<g ref="char:EOLhyphen"/>rable value, whileſt <hi>Harriſon, Peters, Craddock,</hi> and <hi>Vavaſor Powell</hi> have the greater ſhare of the booty: of this enough; Here only I refer you for a full relation to a book entituled <hi>Mercurius Cambo-Britannus.</hi> This inundation had paſſed o<g ref="char:EOLhyphen"/>ver <hi>England</hi> alſo, had not Co<g ref="char:EOLhyphen"/>lonel <hi>Freeman,</hi> my ſelf and Mr. <hi>Gunter</hi> ſet a ſtand to their renewing of this Ordinance, to bring it univerſal throughout the Kingdom: and no man more ſollicitous againſt us, and for this ſacriledg, than <hi>Oliver, Harriſon</hi> and <hi>Peters;</hi> nay, <hi>Peters</hi> excelling them all, a<g ref="char:EOLhyphen"/>vowing
+<pb n="86" facs="tcp:96733:60"/>before the Commitee for plundering Miniſters, that the Clergy were not worthy to keep a kennel of Dogs, or a dozen of Sheep.</p>
+            <p>And thus did he rule the roaſt amongſt that rabble of Hereſies, until Tumbledown <hi>Dick</hi> accepted of the Govern<g ref="char:EOLhyphen"/>ment, when perceiving God to ſmile upon this Nation with ſymptoms of his love; <hi>Peters</hi> fained himſelf mad at <hi>Whitehall,</hi> and there profeſſeth himſelf to be Antichriſt, and ſaith that he muſt ſhortly be deſtroyed; and ſo it fell out; for after I had exhibited the charge of High Treaſon againſt him, for con<g ref="char:EOLhyphen"/>ſpiring the death of our Mar<g ref="char:EOLhyphen"/>tyred King, he was taken in St. <hi>Thomas</hi> in <hi>Southwark</hi> in bed with a woman newly delivered
+<pb n="87" facs="tcp:96733:60"/>of a child, and wife to the Black<g ref="char:EOLhyphen"/>ſmith who deſerted him; and though he called himſelf <hi>Thompſon,</hi> he was brought to the Tower, and thence to New<g ref="char:EOLhyphen"/>gate; and though he had pub<g ref="char:EOLhyphen"/>liſhed a Pamphlet to vindicate his innocency, and in it calling the holy Majeſty of God to witneſs, that he had neither head nor hand in acting or con<g ref="char:EOLhyphen"/>triving the Kings death, he was by the teſtimony of a cloud of witneſſes, found guilty, and condemned, and the Tueſday following executed at Charing<g ref="char:EOLhyphen"/>croſs.</p>
+            <p>But to ſhew his end was as deſperate as his life was abomi<g ref="char:EOLhyphen"/>nable; when ſeveral Miniſters came to comfort him in <hi>New<g ref="char:EOLhyphen"/>gate,</hi> ſome hours before his death, and exhorting him to
+<pb n="88" facs="tcp:96733:61"/>lay hold upon Goſpel Promiſes made to repentance: he re<g ref="char:EOLhyphen"/>plied, <hi>What have I to do with them, ſeeing I am guilty of the blood of my King?</hi> Then hear<g ref="char:EOLhyphen"/>ing the Bell ring, cried out, <hi>Away away to Judgment, for the Trumpet ſounds,</hi> and ſo goes down the ſtairs, thence to the Gibbet, where he behaved himſelf more impenitent, not being able to pray, though in<g ref="char:EOLhyphen"/>treated to it, he dying ſullen<g ref="char:EOLhyphen"/>ly and deſperately: that as was his Life, ſuch was his End.</p>
+            <q>
+               <l>Oh quam dulce mori, quum mors ſit ſola malorum</l>
+               <l>Terminus, &amp; vitae fons &amp; origo novae!</l>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
